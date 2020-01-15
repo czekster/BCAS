@@ -44,19 +44,17 @@ close(INFILE);
 my %teams;
 my $target_year = $ARGV[0];
 
-my $target_match;  #match counter (usually from 1 to 38)
-#set window size below
-my $size; #'good' sizes are 2, 3 and 4 (more, the number of windows is very reduced, may cause inconsistencies to the method)
-my $overlap; # size of the window overlap
-
-
 ######## exectute 'main' code
 open(ALLFILE, ">>all-$target_year.txt") or die ("Could not open file 'all-$target_year.txt'\n");
 print ALLFILE "target_year;helper;ssprob;state-sum\n"; #ssprob = steady state probability
 
 # all possibilities in terms of year, matches, window size and overlap size
+
+#match counter (usually from 1 to 38)
 for (my $target_match = 19; $target_match <= 34; $target_match+=5) {
+   #'good' sizes are 2, 3 and 4 (more, the number of windows is very reduced, may cause inconsistencies to the method)
    for (my $size = 2; $size <= 3; $size++) {
+      # size of the window overlap
       for (my $overlap = 0; $overlap <= $size-1; $overlap++) { # orig: 0 to $size-1
          compute_all($target_year, $target_match, $size, $overlap);
       }
@@ -64,7 +62,7 @@ for (my $target_match = 19; $target_match <= 34; $target_match+=5) {
 }
 close(ALLFILE);
 
-#sanitation of auxiliary files (a-year.txt and res-year.txt) and move results file and MC to output folder (output/)
+#remove auxiliary files (a-year.txt and res-year.txt) and move results file and MC to output folder (output/)
 move("dtmc-$target_year.txt", "output/dtmc-$target_year.txt") or die "Move dtmc-$target_year.txt -> output/dtmc-$target_year.txt failed: $!";
 move("ctmc-$target_year.txt", "output/ctmc-$target_year.txt") or die "Move ctmc-$target_year.txt -> output/ctmc-$target_year.txt failed: $!";
 move("mc-only-states-$target_year.txt", "output/mc-only-states-$target_year.txt") or die "Move mc-only-states-$target_year.txt -> output/mc-only-states-$target_year.txt failed: $!";
@@ -316,7 +314,8 @@ sub compute {
    $ret_val
 }
 
-sub compute_values { # this is the worst sub I've ever coded - and I will not change it (pure lazyness).............
+# this is the worst sub I've ever coded - and I will not change it (pure lazyness).............
+sub compute_values {
    my $statename = shift;
    my $len = length($statename);
    my $res = 0;
