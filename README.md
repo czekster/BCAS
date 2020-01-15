@@ -25,3 +25,7 @@ Files:
   - PROMPT: perl do-mc.pl 2006
     - this will execute the process for year 2006 (Y=2006) generating several files in the output/ folder
  
+# How to cite this work
+Ricardo M. Czekster, *Predicting Brazilian Football Championship first and last four teams between 2006 to 2019 since mid-season*, Jan/2020 (non peer reviewed pre-print), DOI: 10.13140/RG.2.2.33748.96646
+
+[Link to ResearchGate](https://www.researchgate.net/publication/338595720_Predicting_Brazilian_Football_Championship_first_and_last_four_teams_between_2006_to_2019_since_mid-season)
