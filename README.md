@@ -11,14 +11,14 @@ Files:
   - process/ -- contains the Perl, C, batch, MS-Excel files
     - do-mc.pl -- **this is the *main* Perl script, the one that does all the process described in the paper**
     - do-all.bat -- runs *many* years in parallel (use with caution, your CPU may use all cores at once)
-    - do-validation.pl -- this script runs the validation, i.e., it compares official ranking and statistics with my dataset
+    - do-validation.pl -- this script runs the validation, i.e., it compares official ranking and statistics with my dataset (this is just an auxiliary process)
     - vector-matrix-product-file.c -- performs the Vector-Matrix Product (VMP) to compute the probability vector for each team
-    - spreadsheets/ -- analysis files (auxiliary file, for computing some of BCAS statistics described in the paper)
+    - spreadsheets/ -- statistical analysis files (auxiliary file, for computing some of BCAS statistics described in the paper)
       - Analysis.xlsx
       - Results-All.xlsx
       - Simple-MC.xlsx
       - Simple-MC-new-method.xlsx
-    - process/output/ -- analysis files
+    - ./output/ -- generated script output and analysis files
 
 - [Download Perl (5.28)](https://www.activestate.com/products/perl/downloads/)
 - Run:
@@ -37,7 +37,7 @@ The following set of parameters may be changed:
 There is one constant that you should consider: $METHOD = 2; (it is currently using the _modified_ DTMC instead of standard DTMC)
 
 *2. Run the script for a year:*
-c:\BCAS\perl do-mc.pl 2010
+PROMPT: perl do-mc.pl 2010
 
 *3. Observe output in folder ./output/*
 - the following files will be generated: 
