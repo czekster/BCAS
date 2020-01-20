@@ -3,7 +3,7 @@ This is the repository for the BCAS (Brazilian Championship A-Series).
 It contains the matches with date/hour, host team, score, visiting team.
 More details on ResearchGate.
 
-Files:
+Files **(OBS: all files must be ANSI)**:
 - **/**
   - ranking-2003-2019.txt -- official rankings for BCAS
   - matches-2003-2019.txt -- all matches played from 2003 to 2019 in BCAS
