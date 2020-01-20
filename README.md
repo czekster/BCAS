@@ -29,6 +29,7 @@ Files **(OBS: all files must be ANSI)**:
 The idea is to be able to change parameters and inspect generated output for insight.
 
 *1. Change parameters in script _do-mc.pl YEAR_ (YEAR is the command line parameter):*
+
 The following set of parameters may be changed:
 - M: number of matches to analyse (as M is close to 1, less information will be used to count the frequencies between states)
 - W: window size (from 2 to 19, however, if 19 is chosen, the frequency will be very low)
@@ -37,16 +38,19 @@ The following set of parameters may be changed:
 There is one constant that you should consider: $METHOD = 2; (it is currently using the _modified_ DTMC instead of standard DTMC)
 
 *2. Run the script for a year:*
+
 PROMPT: perl do-mc.pl 2010
 
 *3. Observe output in folder ./output/*
+
 - the following files will be generated: 
-  - ./output/all-2010.txt  --> **this is the place with all the results**
-  - ./output/dtmc-2010.txt  --> file with all team's DTMC (Discrete Time Markov Chain)
-  - ./output/ctmc-2010.txt  --> file with all team's CTMC (Continuous Time Markov Chain)
-  - ./output/mc-only-states-2010.txt  --> shows only the observed states for each team for that year
+  - ./output/all-2010.txt  --> **this is the file with ALL results**
+  - ./output/dtmc-2010.txt  --> file with all team's DTMC (_Discrete Time Markov Chain_)
+  - ./output/ctmc-2010.txt  --> file with all team's CTMC (_Continuous Time Markov Chain_)
+  - ./output/mc-only-states-2010.txt  --> shows only the observed states for each team for that year (it could be used to derive another prediction technique)
   
 *4. Use MS-Excel or similar software to analyse generated output*
+
 - Look at folder ./spreadsheets/ for examples 
 
 # How to cite this work
