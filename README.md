@@ -9,8 +9,8 @@ Files:
   - matches-2003-2019.txt -- all matches played from 2003 to 2019 in BCAS
   - average-attendance-2003-2019.txt -- average attendance (average number of supporters in stadia) for all teams in BCAS
   - process/ -- contains the Perl, C, batch, MS-Excel files
+    - do-mc.pl -- **this is the *main* Perl script, the one that does all the process described in the paper**
     - do-all.bat -- runs *many* years in parallel (use with caution, your CPU may use all cores at once)
-    - do-mc.pl -- this is the *main* Perl script, the one that does all the process described in the paper
     - do-validation.pl -- this script runs the validation, i.e., it compares official ranking and statistics with my dataset
     - vector-matrix-product-file.c -- performs the Vector-Matrix Product (VMP) to compute the probability vector for each team
     - spreadsheets/ -- analysis files (auxiliary file, for computing some of BCAS statistics described in the paper)
