@@ -53,7 +53,10 @@ PROMPT: perl do-mc.pl 2010
 
 - Look at folder ./spreadsheets/ for examples 
 
+# How to cite this dataset
+Czekster, Ricardo M. (2020), *Brazilian Championship A-Series*, Mendeley Data, v1 http://dx.doi.org/10.17632/thsvj4sycn.1 
+ 
 # How to cite this work
-Ricardo M. Czekster, *Predicting Brazilian Football Championship first and last four teams between 2006 to 2019 since mid-season*, Jan/2020 (non peer reviewed pre-print), DOI: 10.13140/RG.2.2.33748.96646/2
+Czekster, Ricardo M. (2020), *Predicting Brazilian Football Championship first and last four teams between 2006 to 2019 since mid-season*, Jan/2020 (non peer reviewed pre-print), DOI: 10.13140/RG.2.2.33748.96646/2
 
 [Link to ResearchGate](https://www.researchgate.net/publication/338595720_Predicting_Brazilian_Football_Championship_first_and_last_four_teams_between_2006_to_2019_since_mid-season)
