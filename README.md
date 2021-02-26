@@ -5,9 +5,9 @@ More details on ResearchGate.
 
 Files **(OBS: all files must be ANSI)**:
 - **/**
-  - ranking-2003-2019.txt -- official rankings for BCAS
-  - matches-2003-2019.txt -- all matches played from 2003 to 2019 in BCAS
-  - average-attendance-2003-2019.txt -- average attendance (average number of supporters in stadia) for all teams in BCAS
+  - ranking-2003-2020.txt -- official rankings for BCAS
+  - matches-2003-2020.txt -- all matches played from 2003 to 2020 in BCAS
+  - average-attendance-2003-2019.txt -- average attendance (average number of supporters in stadia) for all teams in BCAS from 2003 to 2019 (only)
   - process/ -- contains the Perl, C, batch, MS-Excel files
     - do-mc.pl -- **this is the *main* Perl script, the one that does all the process described in the paper**
     - do-all.bat -- runs *many* years in parallel (use with caution, your CPU may use all cores at once)
