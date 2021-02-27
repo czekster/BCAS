@@ -18,6 +18,7 @@
 # Output are several files (in folder ./output/) with the Markov Chains models and results for the parameters used.
 # Author: Ricardo M. Czekster (rczekster@gmail.com)
 # Date: 14/01/2020
+# Modified: 26/02/2021
 
 use strict;
 use warnings;
@@ -29,7 +30,7 @@ if (@ARGV != 1) {
    exit;
 }
 
-my $file = "../matches-2003-2019.txt";
+my $file = "../matches-2003-2020.txt";
 # GLOBAL PARAMETERS
 my $DEBUG_MC = 1;        # creates a file 'mc.txt' with all Markov Chains
 my $METHOD   = 2;        # method=1 --> standard DTMC conversion from CTMC

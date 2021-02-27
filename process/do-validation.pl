@@ -18,12 +18,15 @@
 # Output is a report on matches that are not equal to the official version
 # Author: Ricardo M. Czekster (rczekster@gmail.com)
 # Date: 14/01/2020
+# Modified: 26/02/2020
+
+#NOTE on 26/02/2021: I had to add all matches of 2020/2021 to be at 2020 only (all matches after 01/01/2021 became 01/01/2020 --> in 2020), so my scripts keep working without any workaround
 
 use strict;
 use warnings;
 
-my $file = "../matches-2003-2019.txt";
-my $class_file = "../ranking-2003-2019.txt";
+my $file = "../matches-2003-2020.txt";
+my $class_file = "../ranking-2003-2020.txt";
 
 # file containing the matches
 open(INFILE, "<$file") or die("cannot open file named $file\n");
