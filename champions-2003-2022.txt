@@ -1,0 +1,21 @@
+﻿#ANO;TIME
+2003;Cruzeiro/MG
+2004;Santos/SP
+2005;Corinthians/SP
+2006;São Paulo/SP
+2007;São Paulo/SP
+2008;São Paulo/SP
+2009;Flamengo/RJ
+2010;Fluminense/RJ
+2011;Corinthians/SP
+2012;Fluminense/RJ
+2013;Cruzeiro/MG
+2014;Cruzeiro/MG
+2015;Corinthians/SP
+2016;Palmeiras/SP
+2017;Corinthians/SP
+2018;Palmeiras/SP
+2019;Flamengo/RJ
+2020;Flamengo/RJ
+2021;Atlético/MG
+2022;Palmeiras/SP

@@ -7265,3 +7265,763 @@
 2;25/02/2020;21:30;Atlético/PR;2x0;Sport/PE
 2;25/02/2020;21:30;Ceará/CE;2x1;Botafogo/RJ
 2;25/02/2020;21:30;Atlético/GO;3x1;Coritiba/PR
+1;30/05/2021;20:30;Internacional/RS;2x2;Sport/PE
+1;30/05/2021;18:15;Atlético/PR;1x0;América/MG
+1;30/05/2021;18:15;Chapecoense/SC;0x3;Bragantino/SP
+1;30/05/2021;18:15;Corinthians/SP;0x1;Atlético/GO
+1;30/05/2021;16:00;Ceará/CE;3x2;Grêmio/RS
+1;30/05/2021;16:00;Flamengo/RJ;1x0;Palmeiras/SP
+1;30/05/2021;11:00;Atlético/MG;1x2;Fortaleza/CE
+1;29/05/2021;21:00;São Paulo/SP;0x0;Fluminense/RJ
+1;29/05/2021;20:00;Bahia/BA;3x0;Santos/SP
+1;29/05/2021;19:00;Cuiabá/MT;2x2;Juventude/RS
+1;23/11/2021;21:00;Grêmio/RS;2x2;Flamengo/RJ
+1;06/06/2021;20:30;Sport/PE;0x1;Atlético/MG
+1;06/06/2021;18:15;Juventude/RS;0x3;Atlético/PR
+1;06/06/2021;18:15;Palmeiras/SP;3x1;Chapecoense/SC
+1;06/06/2021;16:00;Fortaleza/CE;5x1;Internacional/RS
+1;06/06/2021;16:00;América/MG;0x1;Corinthians/SP
+1;06/06/2021;11:00;Fluminense/RJ;1x0;Cuiabá/MT
+1;05/06/2021;21:00;Santos/SP;3x1;Ceará/CE
+1;05/06/2021;21:00;Bragantino/SP;3x3;Bahia/BA
+1;05/06/2021;19:00;Atlético/GO;2x0;São Paulo/SP
+1;21/07/2021;19:00;Cuiabá/MT;2x1;Atlético/GO
+1;13/06/2021;20:30;Bragantino/SP;2x2;Fluminense/RJ
+1;13/06/2021;20:30;Fortaleza/CE;1x0;Sport/PE
+1;13/06/2021;20:30;Chapecoense/SC;0x0;Ceará/CE
+1;13/06/2021;20:30;Bahia/BA;0x1;Internacional/RS
+1;13/06/2021;16:00;Flamengo/RJ;2x0;América/MG
+1;13/06/2021;16:00;Grêmio/RS;0x1;Atlético/PR
+1;13/06/2021;16:00;Atlético/MG;1x0;São Paulo/SP
+1;12/06/2021;19:00;Santos/SP;0x0;Juventude/RS
+1;12/06/2021;19:00;Palmeiras/SP;1x1;Corinthians/SP
+1;02/11/2021;16:00;Atlético/PR;2x2;Flamengo/RJ
+1;17/06/2021;19:00;Fluminense/RJ;1x0;Santos/SP
+1;17/06/2021;19:00;Atlético/GO;0x0;Fortaleza/CE
+1;17/06/2021;19:00;Sport/PE;1x0;Grêmio/RS
+1;17/06/2021;16:00;América/MG;0x0;Cuiabá/MT
+1;17/06/2021;16:00;Ceará/CE;1x2;Bahia/BA
+1;16/06/2021;21:30;Juventude/RS;0x3;Palmeiras/SP
+1;16/06/2021;20:30;Corinthians/SP;1x2;Bragantino/SP
+1;16/06/2021;19:00;São Paulo/SP;1x1;Chapecoense/SC
+1;16/06/2021;19:00;Internacional/RS;0x1;Atlético/MG
+1;18/08/2021;19:00;Cuiabá/MT;0x1;Grêmio/RS
+1;21/06/2021;20:00;Atlético/MG;1x1;Chapecoense/SC
+1;20/06/2021;20:30;Juventude/RS;1x0;Sport/PE
+1;20/06/2021;18:15;Fortaleza/CE;1x1;Fluminense/RJ
+1;20/06/2021;18:15;Santos/SP;2x0;São Paulo/SP
+1;20/06/2021;18:15;Atlético/PR;2x1;Atlético/GO
+1;20/06/2021;16:00;Internacional/RS;1x1;Ceará/CE
+1;20/06/2021;16:00;Bahia/BA;0x0;Corinthians/SP
+1;20/06/2021;11:00;Palmeiras/SP;2x1;América/MG
+1;19/06/2021;21:00;Flamengo/RJ;2x3;Bragantino/SP
+1;24/06/2021;21:30;Grêmio/RS;2x2;Santos/SP
+1;24/06/2021;21:30;Bahia/BA;2x1;Atlético/PR
+1;24/06/2021;19:00;Ceará/CE;2x1;Atlético/MG
+1;24/06/2021;19:00;Chapecoense/SC;1x2;Internacional/RS
+1;24/06/2021;19:00;Corinthians/SP;2x1;Sport/PE
+1;24/06/2021;16:00;América/MG;1x1;Juventude/RS
+1;23/06/2021;19:00;Flamengo/RJ;2x1;Fortaleza/CE
+1;23/06/2021;19:00;São Paulo/SP;2x2;Cuiabá/MT
+1;23/06/2021;19:00;Bragantino/SP;3x1;Palmeiras/SP
+1;23/06/2021;19:00;Atlético/GO;1x0;Fluminense/RJ
+1;28/06/2021;20:00;Atlético/GO;0x1;Bragantino/SP
+1;27/06/2021;20:30;Ceará/CE;1x1;São Paulo/SP
+1;27/06/2021;20:30;Sport/PE;0x0;Cuiabá/MT
+1;27/06/2021;20:30;América/MG;1x1;Internacional/RS
+1;27/06/2021;20:30;Santos/SP;2x0;Atlético/MG
+1;27/06/2021;20:00;Grêmio/RS;0x0;Fortaleza/CE
+1;27/06/2021;20:00;Atlético/PR;2x2;Chapecoense/SC
+1;27/06/2021;20:00;Palmeiras/SP;3x2;Bahia/BA
+1;27/06/2021;16:00;Fluminense/RJ;1x1;Corinthians/SP
+1;27/06/2021;11:00;Juventude/RS;1x0;Flamengo/RJ
+1;01/07/2021;20:00;Cuiabá/MT;0x2;Flamengo/RJ
+1;01/07/2021;19:00;Atlético/MG;4x1;Atlético/GO
+1;01/07/2021;16:00;Bragantino/SP;0x0;Ceará/CE
+1;30/06/2021;21:30;Juventude/RS;2x0;Grêmio/RS
+1;30/06/2021;21:30;Corinthians/SP;0x0;São Paulo/SP
+1;30/06/2021;20:30;Santos/SP;0x0;Sport/PE
+1;30/06/2021;19:00;Internacional/RS;1x2;Palmeiras/SP
+1;30/06/2021;19:00;Bahia/BA;3x4;América/MG
+1;30/06/2021;16:00;Fluminense/RJ;1x4;Atlético/PR
+1;30/06/2021;16:00;Fortaleza/CE;3x2;Chapecoense/SC
+1;04/07/2021;20:30;Grêmio/RS;0x1;Atlético/GO
+1;04/07/2021;18:15;Ceará/CE;2x0;Juventude/RS
+1;04/07/2021;18:15;Cuiabá/MT;0x1;Atlético/MG
+1;04/07/2021;18:15;São Paulo/SP;1x2;Bragantino/SP
+1;04/07/2021;16:00;Flamengo/RJ;0x1;Fluminense/RJ
+1;04/07/2021;16:00;Sport/PE;0x1;Palmeiras/SP
+1;04/07/2021;11:00;Chapecoense/SC;0x2;Bahia/BA
+1;03/07/2021;21:00;Corinthians/SP;1x1;Internacional/RS
+1;03/07/2021;19:00;América/MG;2x0;Santos/SP
+1;03/07/2021;19:00;Atlético/PR;2x1;Fortaleza/CE
+1;08/07/2021;21:00;Chapecoense/SC;0x1;Corinthians/SP
+1;07/07/2021;21:30;Fluminense/RJ;0x0;Ceará/CE
+1;07/07/2021;21:30;Internacional/RS;0x2;São Paulo/SP
+1;07/07/2021;19:15;Atlético/GO;1x1;Sport/PE
+1;07/07/2021;19:00;Atlético/MG;2x1;Flamengo/RJ
+1;07/07/2021;19:00;Palmeiras/SP;2x0;Grêmio/RS
+1;07/07/2021;18:00;Fortaleza/CE;4x0;América/MG
+1;07/07/2021;18:00;Bahia/BA;1x0;Juventude/RS
+1;07/07/2021;18:00;Bragantino/SP;1x1;Cuiabá/MT
+1;06/07/2021;19:30;Santos/SP;2x1;Atlético/PR
+1;11/07/2021;20:30;Fortaleza/CE;1x0;Corinthians/SP
+1;11/07/2021;18:15;Cuiabá/MT;2x2;Ceará/CE
+1;11/07/2021;18:15;Flamengo/RJ;2x1;Chapecoense/SC
+1;11/07/2021;11:00;Juventude/RS;1x1;Atlético/GO
+1;10/07/2021;19:00;Sport/PE;1x2;Fluminense/RJ
+1;10/07/2021;19:00;América/MG;0x1;Atlético/MG
+1;10/07/2021;19:00;São Paulo/SP;1x0;Bahia/BA
+1;10/07/2021;17:30;Atlético/PR;2x2;Bragantino/SP
+1;10/07/2021;16:30;Grêmio/RS;0x0;Internacional/RS
+1;10/07/2021;16:30;Palmeiras/SP;3x2;Santos/SP
+1;19/07/2021;20:00;América/MG;0x1;Sport/PE
+1;18/07/2021;20:30;Bragantino/SP;2x2;Santos/SP
+1;18/07/2021;20:30;Internacional/RS;1x0;Juventude/RS
+1;18/07/2021;18:15;Bahia/BA;0x5;Flamengo/RJ
+1;18/07/2021;16:00;Atlético/GO;0x3;Palmeiras/SP
+1;18/07/2021;11:00;Chapecoense/SC;2x3;Cuiabá/MT
+1;17/07/2021;21:00;Fluminense/RJ;0x1;Grêmio/RS
+1;17/07/2021;19:00;Corinthians/SP;1x2;Atlético/MG
+1;17/07/2021;17:00;São Paulo/SP;0x1;Fortaleza/CE
+1;17/07/2021;17:00;Ceará/CE;1x0;Atlético/PR
+1;26/07/2021;20:00;Cuiabá/MT;1x2;Corinthians/SP
+1;26/07/2021;18:00;Juventude/RS;1x0;Chapecoense/SC
+1;25/07/2021;20:30;Sport/PE;0x0;Ceará/CE
+1;25/07/2021;18:15;Santos/SP;0x1;Atlético/GO
+1;25/07/2021;18:15;Atlético/PR;2x1;Internacional/RS
+1;25/07/2021;16:00;Fortaleza/CE;1x0;Bragantino/SP
+1;25/07/2021;16:00;Flamengo/RJ;5x1;São Paulo/SP
+1;25/07/2021;11:00;Atlético/MG;3x0;Bahia/BA
+1;24/07/2021;19:00;Palmeiras/SP;1x0;Fluminense/RJ
+1;24/07/2021;17:00;Grêmio/RS;1x1;América/MG
+1;02/09/2021;19:00;Fluminense/RJ;1x1;Juventude/RS
+1;01/08/2021;20:30;Atlético/GO;1x1;América/MG
+1;01/08/2021;20:30;Ceará/CE;3x1;Fortaleza/CE
+1;01/08/2021;18:15;Chapecoense/SC;0x1;Santos/SP
+1;01/08/2021;18:15;Bahia/BA;0x1;Sport/PE
+1;01/08/2021;16:00;Corinthians/SP;1x3;Flamengo/RJ
+1;01/08/2021;16:00;Atlético/MG;2x0;Atlético/PR
+1;31/07/2021;21:00;Bragantino/SP;1x0;Grêmio/RS
+1;31/07/2021;20:00;Internacional/RS;0x0;Cuiabá/MT
+1;31/07/2021;19:00;São Paulo/SP;0x0;Palmeiras/SP
+1;09/08/2021;20:00;Grêmio/RS;2x1;Chapecoense/SC
+1;08/08/2021;18:15;Ceará/CE;0x0;Atlético/GO
+1;08/08/2021;18:15;Flamengo/RJ;0x4;Internacional/RS
+1;08/08/2021;16:00;Santos/SP;0x0;Corinthians/SP
+1;08/08/2021;16:00;Juventude/RS;1x2;Atlético/MG
+1;08/08/2021;16:00;América/MG;1x0;Fluminense/RJ
+1;07/08/2021;21:00;Cuiabá/MT;1x1;Bahia/BA
+1;07/08/2021;21:00;Palmeiras/SP;2x3;Fortaleza/CE
+1;07/08/2021;18:00;Atlético/PR;1x2;São Paulo/SP
+1;06/08/2021;19:00;Sport/PE;0x0;Bragantino/SP
+1;16/08/2021;20:00;Chapecoense/SC;1x1;América/MG
+1;15/08/2021;20:30;Internacional/RS;4x2;Fluminense/RJ
+1;15/08/2021;18:15;Cuiabá/MT;1x0;Atlético/PR
+1;15/08/2021;18:15;Bahia/BA;1x2;Atlético/GO
+1;15/08/2021;18:15;Fortaleza/CE;1x1;Santos/SP
+1;15/08/2021;16:00;Corinthians/SP;3x1;Ceará/CE
+1;15/08/2021;16:00;Flamengo/RJ;2x0;Sport/PE
+1;14/08/2021;21:00;São Paulo/SP;2x1;Grêmio/RS
+1;14/08/2021;19:00;Atlético/MG;2x0;Palmeiras/SP
+1;14/08/2021;17:00;Bragantino/SP;1x2;Juventude/RS
+1;23/08/2021;20:00;América/MG;0x2;Bragantino/SP
+1;23/08/2021;20:00;Fluminense/RJ;1x1;Atlético/MG
+1;22/08/2021;20:30;Sport/PE;0x1;São Paulo/SP
+1;22/08/2021;18:15;Santos/SP;2x2;Internacional/RS
+1;22/08/2021;16:00;Atlético/PR;0x1;Corinthians/SP
+1;22/08/2021;16:00;Ceará/CE;1x1;Flamengo/RJ
+1;22/08/2021;11:00;Palmeiras/SP;0x2;Cuiabá/MT
+1;21/08/2021;21:00;Juventude/RS;1x1;Fortaleza/CE
+1;21/08/2021;19:00;Grêmio/RS;2x0;Bahia/BA
+1;21/08/2021;17:00;Atlético/GO;1x1;Chapecoense/SC
+1;30/08/2021;21:30;Fortaleza/CE;0x0;Cuiabá/MT
+1;30/08/2021;19:00;Fluminense/RJ;2x0;Bahia/BA
+1;29/08/2021;20:30;Bragantino/SP;1x1;Atlético/MG
+1;29/08/2021;18:15;Atlético/GO;0x0;Internacional/RS
+1;29/08/2021;16:00;Juventude/RS;1x1;São Paulo/SP
+1;29/08/2021;11:00;América/MG;2x0;Ceará/CE
+1;28/08/2021;21:00;Palmeiras/SP;2x1;Atlético/PR
+1;28/08/2021;21:00;Grêmio/RS;0x1;Corinthians/SP
+1;28/08/2021;19:00;Santos/SP;0x4;Flamengo/RJ
+1;28/08/2021;17:00;Sport/PE;0x0;Chapecoense/SC
+1;05/11/2021;21:30;Flamengo/RJ;2x0;Atlético/GO
+1;03/11/2021;21:00;Atlético/MG;2x1;Grêmio/RS
+1;21/10/2021;20:00;Internacional/RS;1x1;Bragantino/SP
+1;20/10/2021;19:00;Ceará/CE;1x2;Palmeiras/SP
+1;22/09/2021;20:30;São Paulo/SP;0x0;América/MG
+1;07/09/2021;21:30;Corinthians/SP;1x1;Juventude/RS
+1;07/09/2021;21:30;Chapecoense/SC;1x2;Fluminense/RJ
+1;05/09/2021;18:15;Atlético/PR;0x0;Sport/PE
+1;04/09/2021;21:00;Cuiabá/MT;2x1;Santos/SP
+1;04/09/2021;21:00;Bahia/BA;4x2;Fortaleza/CE
+2;13/09/2021;20:00;Sport/PE;0x1;Internacional/RS
+2;12/09/2021;20:30;Fluminense/RJ;2x1;São Paulo/SP
+2;12/09/2021;18:15;Atlético/GO;1x1;Corinthians/SP
+2;12/09/2021;16:00;Palmeiras/SP;1x3;Flamengo/RJ
+2;12/09/2021;16:00;Fortaleza/CE;0x2;Atlético/MG
+2;12/09/2021;11:00;Grêmio/RS;2x0;Ceará/CE
+2;11/09/2021;21:00;Santos/SP;0x0;Bahia/BA
+2;11/09/2021;19:00;Bragantino/SP;1x2;Chapecoense/SC
+2;11/09/2021;17:00;Juventude/RS;1x2;Cuiabá/MT
+2;11/09/2021;16:00;América/MG;2x0;Atlético/PR
+2;20/09/2021;20:00;Cuiabá/MT;2x2;Fluminense/RJ
+2;19/09/2021;20:30;Flamengo/RJ;0x1;Grêmio/RS
+2;19/09/2021;18:15;Corinthians/SP;1x1;América/MG
+2;19/09/2021;16:00;São Paulo/SP;2x1;Atlético/GO
+2;19/09/2021;11:00;Internacional/RS;1x0;Fortaleza/CE
+2;18/09/2021;21:00;Bahia/BA;1x1;Bragantino/SP
+2;18/09/2021;21:00;Ceará/CE;0x0;Santos/SP
+2;18/09/2021;19:00;Atlético/MG;3x0;Sport/PE
+2;18/09/2021;18:45;Atlético/PR;2x1;Juventude/RS
+2;18/09/2021;17:00;Chapecoense/SC;0x2;Palmeiras/SP
+2;26/09/2021;20:30;Atlético/GO;0x0;Cuiabá/MT
+2;26/09/2021;18:15;Atlético/PR;4x2;Grêmio/RS
+2;26/09/2021;18:15;Sport/PE;0x1;Fortaleza/CE
+2;26/09/2021;16:00;Fluminense/RJ;2x1;Bragantino/SP
+2;26/09/2021;16:00;Juventude/RS;3x0;Santos/SP
+2;26/09/2021;16:00;Internacional/RS;2x0;Bahia/BA
+2;26/09/2021;11:00;América/MG;1x1;Flamengo/RJ
+2;25/09/2021;21:00;São Paulo/SP;0x0;Atlético/MG
+2;25/09/2021;19:00;Corinthians/SP;2x1;Palmeiras/SP
+2;25/09/2021;17:00;Ceará/CE;1x0;Chapecoense/SC
+2;27/10/2021;19:00;Santos/SP;2x0;Fluminense/RJ
+2;27/10/2021;19:00;Bahia/BA;1x1;Ceará/CE
+2;03/10/2021;20:30;Grêmio/RS;1x2;Sport/PE
+2;03/10/2021;18:15;Palmeiras/SP;1x1;Juventude/RS
+2;03/10/2021;16:00;Flamengo/RJ;3x0;Atlético/PR
+2;03/10/2021;16:00;Chapecoense/SC;1x1;São Paulo/SP
+2;02/10/2021;21:00;Atlético/MG;1x0;Internacional/RS
+2;02/10/2021;19:00;Bragantino/SP;2x2;Corinthians/SP
+2;02/10/2021;17:00;Fortaleza/CE;0x3;Atlético/GO
+2;02/10/2021;17:00;Cuiabá/MT;0x2;América/MG
+2;07/10/2021;18:30;São Paulo/SP;1x1;Santos/SP
+2;06/10/2021;21:30;Fluminense/RJ;0x2;Fortaleza/CE
+2;06/10/2021;21:30;Grêmio/RS;2x2;Cuiabá/MT
+2;06/10/2021;21:30;América/MG;2x1;Palmeiras/SP
+2;06/10/2021;20:30;Bragantino/SP;1x1;Flamengo/RJ
+2;06/10/2021;19:00;Atlético/GO;0x2;Atlético/PR
+2;06/10/2021;19:00;Sport/PE;3x1;Juventude/RS
+2;06/10/2021;19:00;Ceará/CE;0x0;Internacional/RS
+2;06/10/2021;19:00;Chapecoense/SC;2x2;Atlético/MG
+2;05/10/2021;21:30;Corinthians/SP;3x1;Bahia/BA
+2;11/10/2021;20:00;Cuiabá/MT;0x0;São Paulo/SP
+2;10/10/2021;16:00;Santos/SP;1x0;Grêmio/RS
+2;10/10/2021;11:00;Internacional/RS;5x2;Chapecoense/SC
+2;09/10/2021;21:00;Juventude/RS;1x1;América/MG
+2;09/10/2021;21:00;Palmeiras/SP;2x4;Bragantino/SP
+2;09/10/2021;19:00;Atlético/PR;0x2;Bahia/BA
+2;09/10/2021;19:00;Fortaleza/CE;0x3;Flamengo/RJ
+2;09/10/2021;16:30;Fluminense/RJ;0x0;Atlético/GO
+2;09/10/2021;16:30;Sport/PE;1x0;Corinthians/SP
+2;09/10/2021;16:30;Atlético/MG;3x1;Ceará/CE
+2;14/10/2021;19:00;São Paulo/SP;1x1;Ceará/CE
+2;14/10/2021;19:00;Cuiabá/MT;1x0;Sport/PE
+2;13/10/2021;21:30;Internacional/RS;3x1;América/MG
+2;13/10/2021;21:00;Corinthians/SP;1x0;Fluminense/RJ
+2;13/10/2021;20:30;Fortaleza/CE;1x0;Grêmio/RS
+2;13/10/2021;19:00;Chapecoense/SC;1x1;Atlético/PR
+2;13/10/2021;19:00;Flamengo/RJ;3x1;Juventude/RS
+2;13/10/2021;19:00;Atlético/MG;3x1;Santos/SP
+2;12/10/2021;21:30;Bahia/BA;0x0;Palmeiras/SP
+2;12/10/2021;19:00;Bragantino/SP;1x0;Atlético/GO
+2;18/10/2021;20:00;São Paulo/SP;1x0;Corinthians/SP
+2;17/10/2021;20:30;Flamengo/RJ;0x0;Cuiabá/MT
+2;17/10/2021;20:30;Sport/PE;0x0;Santos/SP
+2;17/10/2021;18:15;Ceará/CE;2x2;Bragantino/SP
+2;17/10/2021;18:15;Grêmio/RS;3x2;Juventude/RS
+2;17/10/2021;18:15;Atlético/GO;2x1;Atlético/MG
+2;17/10/2021;16:00;Palmeiras/SP;1x0;Internacional/RS
+2;17/10/2021;16:00;Atlético/PR;0x1;Fluminense/RJ
+2;16/10/2021;21:00;América/MG;0x0;Bahia/BA
+2;16/10/2021;19:00;Chapecoense/SC;1x2;Fortaleza/CE
+2;25/10/2021;21:30;Palmeiras/SP;2x1;Sport/PE
+2;25/10/2021;20:00;Atlético/GO;2x0;Grêmio/RS
+2;24/10/2021;20:30;Bahia/BA;3x0;Chapecoense/SC
+2;24/10/2021;18:15;Bragantino/SP;1x0;São Paulo/SP
+2;24/10/2021;16:00;Internacional/RS;2x2;Corinthians/SP
+2;24/10/2021;16:00;Atlético/MG;2x1;Cuiabá/MT
+2;23/10/2021;19:15;Fortaleza/CE;3x0;Atlético/PR
+2;23/10/2021;19:00;Fluminense/RJ;3x1;Flamengo/RJ
+2;23/10/2021;17:00;Juventude/RS;0x0;Ceará/CE
+2;23/10/2021;17:00;Santos/SP;0x2;América/MG
+2;01/11/2021;21:30;Corinthians/SP;1x0;Chapecoense/SC
+2;01/11/2021;20:00;Cuiabá/MT;1x0;Bragantino/SP
+2;31/10/2021;20:30;Sport/PE;2x0;Atlético/GO
+2;31/10/2021;18:15;São Paulo/SP;1x0;Internacional/RS
+2;31/10/2021;16:00;Grêmio/RS;1x3;Palmeiras/SP
+2;31/10/2021;16:00;Ceará/CE;1x0;Fluminense/RJ
+2;30/10/2021;21:00;América/MG;2x1;Fortaleza/CE
+2;30/10/2021;19:15;Juventude/RS;0x0;Bahia/BA
+2;30/10/2021;19:00;Flamengo/RJ;1x0;Atlético/MG
+2;30/10/2021;17:00;Atlético/PR;0x1;Santos/SP
+2;23/11/2021;19:00;Atlético/GO;1x1;Juventude/RS
+2;08/11/2021;20:00;Chapecoense/SC;2x2;Flamengo/RJ
+2;07/11/2021;20:30;Ceará/CE;1x0;Cuiabá/MT
+2;07/11/2021;18:15;Bahia/BA;1x0;São Paulo/SP
+2;07/11/2021;16:00;Santos/SP;0x2;Palmeiras/SP
+2;07/11/2021;16:00;Atlético/MG;1x0;América/MG
+2;07/11/2021;16:00;Bragantino/SP;0x2;Atlético/PR
+2;06/11/2021;21:00;Fluminense/RJ;1x0;Sport/PE
+2;06/11/2021;19:00;Internacional/RS;1x0;Grêmio/RS
+2;06/11/2021;17:00;Corinthians/SP;1x0;Fortaleza/CE
+2;11/11/2021;19:00;Flamengo/RJ;3x0;Bahia/BA
+2;10/11/2021;21:30;Fortaleza/CE;1x1;São Paulo/SP
+2;10/11/2021;21:30;Sport/PE;2x3;América/MG
+2;10/11/2021;21:30;Juventude/RS;2x1;Internacional/RS
+2;10/11/2021;20:30;Palmeiras/SP;4x0;Atlético/GO
+2;10/11/2021;19:00;Santos/SP;2x0;Bragantino/SP
+2;10/11/2021;19:00;Atlético/MG;3x0;Corinthians/SP
+2;10/11/2021;18:30;Atlético/PR;2x1;Ceará/CE
+2;09/11/2021;21:30;Grêmio/RS;1x0;Fluminense/RJ
+2;04/11/2021;21:00;Cuiabá/MT;0x0;Chapecoense/SC
+2;02/12/2021;18:00;Bahia/BA;2x3;Atlético/MG
+2;14/11/2021;19:00;Ceará/CE;2x1;Sport/PE
+2;14/11/2021;19:00;Chapecoense/SC;0x2;Juventude/RS
+2;14/11/2021;18:15;Fluminense/RJ;2x1;Palmeiras/SP
+2;14/11/2021;16:00;São Paulo/SP;0x4;Flamengo/RJ
+2;13/11/2021;21:00;Corinthians/SP;3x2;Cuiabá/MT
+2;13/11/2021;19:00;Bragantino/SP;3x0;Fortaleza/CE
+2;13/11/2021;19:00;Internacional/RS;2x1;Atlético/PR
+2;13/11/2021;18:30;América/MG;3x1;Grêmio/RS
+2;13/11/2021;17:00;Atlético/GO;0x0;Santos/SP
+2;18/11/2021;21:00;Sport/PE;1x0;Bahia/BA
+2;17/11/2021;21:30;Flamengo/RJ;1x0;Corinthians/SP
+2;17/11/2021;20:30;Palmeiras/SP;0x2;São Paulo/SP
+2;17/11/2021;20:30;Juventude/RS;1x0;Fluminense/RJ
+2;17/11/2021;20:00;Fortaleza/CE;0x4;Ceará/CE
+2;17/11/2021;19:00;Santos/SP;2x0;Chapecoense/SC
+2;17/11/2021;19:00;Cuiabá/MT;1x0;Internacional/RS
+2;17/11/2021;19:00;América/MG;0x0;Atlético/GO
+2;16/11/2021;18:00;Grêmio/RS;3x0;Bragantino/SP
+2;16/11/2021;16:00;Atlético/PR;0x1;Atlético/MG
+2;24/11/2021;21:30;São Paulo/SP;0x0;Atlético/PR
+2;21/11/2021;19:00;Bahia/BA;0x0;Cuiabá/MT
+2;21/11/2021;17:00;Fluminense/RJ;2x0;América/MG
+2;21/11/2021;16:00;Corinthians/SP;2x0;Santos/SP
+2;20/11/2021;21:30;Internacional/RS;1x2;Flamengo/RJ
+2;20/11/2021;21:00;Atlético/GO;1x1;Ceará/CE
+2;20/11/2021;19:00;Fortaleza/CE;1x0;Palmeiras/SP
+2;20/11/2021;19:00;Chapecoense/SC;1x3;Grêmio/RS
+2;20/11/2021;19:00;Atlético/MG;2x0;Juventude/RS
+2;28/10/2021;19:00;Bragantino/SP;3x0;Sport/PE
+2;03/12/2021;20:00;Sport/PE;1x1;Flamengo/RJ
+2;03/12/2021;19:00;Atlético/PR;1x0;Cuiabá/MT
+2;02/12/2021;20:00;Grêmio/RS;3x0;São Paulo/SP
+2;30/11/2021;21:00;América/MG;3x0;Chapecoense/SC
+2;30/11/2021;19:00;Juventude/RS;1x0;Bragantino/SP
+2;29/11/2021;19:00;Atlético/GO;2x1;Bahia/BA
+2;25/11/2021;20:00;Ceará/CE;2x1;Corinthians/SP
+2;25/11/2021;19:00;Santos/SP;2x0;Fortaleza/CE
+2;24/11/2021;21:30;Fluminense/RJ;1x0;Internacional/RS
+2;23/11/2021;21:30;Palmeiras/SP;2x2;Atlético/MG
+2;03/12/2021;21:00;Fortaleza/CE;1x0;Juventude/RS
+2;03/12/2021;20:00;Chapecoense/SC;0x1;Atlético/GO
+2;30/11/2021;22:00;Cuiabá/MT;1x3;Palmeiras/SP
+2;30/11/2021;20:00;Flamengo/RJ;2x1;Ceará/CE
+2;28/11/2021;19:00;Internacional/RS;1x1;Santos/SP
+2;28/11/2021;16:00;Atlético/MG;2x1;Fluminense/RJ
+2;28/11/2021;16:00;Corinthians/SP;1x0;Atlético/PR
+2;27/11/2021;21:30;São Paulo/SP;2x0;Sport/PE
+2;27/11/2021;19:30;Bragantino/SP;1x1;América/MG
+2;26/11/2021;19:00;Bahia/BA;3x1;Grêmio/RS
+2;06/12/2021;21:00;Chapecoense/SC;0x1;Sport/PE
+2;06/12/2021;20:00;Flamengo/RJ;0x1;Santos/SP
+2;06/12/2021;20:00;Internacional/RS;1x2;Atlético/GO
+2;06/12/2021;20:00;Cuiabá/MT;1x0;Fortaleza/CE
+2;06/12/2021;19:00;Atlético/PR;0x0;Palmeiras/SP
+2;06/12/2021;19:00;São Paulo/SP;3x1;Juventude/RS
+2;05/12/2021;19:00;Ceará/CE;0x0;América/MG
+2;05/12/2021;16:00;Bahia/BA;2x0;Fluminense/RJ
+2;05/12/2021;16:00;Atlético/MG;4x3;Bragantino/SP
+2;05/12/2021;16:00;Corinthians/SP;1x1;Grêmio/RS
+2;09/12/2021;21:30;Atlético/GO;2x0;Flamengo/RJ
+2;09/12/2021;21:30;Fluminense/RJ;3x0;Chapecoense/SC
+2;09/12/2021;21:30;Palmeiras/SP;1x0;Ceará/CE
+2;09/12/2021;21:30;Santos/SP;1x1;Cuiabá/MT
+2;09/12/2021;21:30;América/MG;2x0;São Paulo/SP
+2;09/12/2021;21:30;Grêmio/RS;4x3;Atlético/MG
+2;09/12/2021;21:30;Fortaleza/CE;2x1;Bahia/BA
+2;09/12/2021;21:30;Sport/PE;1x1;Atlético/PR
+2;09/12/2021;21:30;Bragantino/SP;1x0;Internacional/RS
+2;09/12/2021;21:30;Juventude/RS;1x0;Corinthians/SP
+1;09/04/2022;23:00;Atlético/GO;1x1;Flamengo/RJ
+1;09/04/2022;20:30;Fluminense/RJ;0x0;Santos/SP
+1;10/04/2022;23:00;Avaí/SC;1x0;América/MG
+1;10/04/2022;23:00;São Paulo/SP;4x0;Atlético/PR
+1;10/04/2022;22:00;Fortaleza/CE;0x1;Cuiabá/PR
+1;10/04/2022;20:00;Atlético/MG;2x0;Internacional/RS
+1;10/04/2022;20:00;Botafogo/RJ;1x3;Corinthians/SP
+1;10/04/2022;15:00;Coritiba/PR;3x0;Goiás/GO
+1;10/04/2022;01:00;Palmeiras/SP;2x3;Ceará/CE
+1;12/04/2022;00:00;Juventude/RS;2x2;Bragantino/SP
+1;16/04/2022;23:00;América/MG;4x1;Juventude/RS
+1;16/04/2022;23:00;Corinthians/SP;3x0;Avaí/SC
+1;16/04/2022;20:30;Goiás/GO;1x1;Palmeiras/SP
+1;17/04/2022;23:00;Ceará/CE;1x3;Botafogo/RJ
+1;17/04/2022;22:00;Atlético/PR;0x1;Atlético/MG
+1;17/04/2022;22:00;Internacional/RS;2x1;Fortaleza/CE
+1;17/04/2022;22:00;Bragantino/SP;4x0;Atlético/GO
+1;17/04/2022;20:00;Flamengo/RJ;3x1;São Paulo/SP
+1;17/04/2022;15:00;Santos/SP;2x1;Coritiba/PR
+1;17/04/2022;01:00;Cuiabá/PR;0x1;Fluminense/RJ
+1;20/04/2022;23:30;Flamengo/RJ;0x0;Palmeiras/SP
+1;23/04/2022;23:00;Fluminense/RJ;0x1;Internacional/RS
+1;23/04/2022;23:00;Palmeiras/SP;3x0;Corinthians/SP
+1;23/04/2022;20:30;Atlético/PR;1x0;Flamengo/RJ
+1;23/04/2022;20:30;Bragantino/SP;1x1;São Paulo/SP
+1;24/04/2022;22:30;Atlético/GO;1x1;Botafogo/RJ
+1;24/04/2022;22:00;Juventude/RS;0x1;Cuiabá/PR
+1;24/04/2022;20:00;Santos/SP;3x0;América/MG
+1;24/04/2022;01:00;Atlético/MG;2x2;Coritiba/PR
+1;26/04/2022;00:00;Avaí/SC;3x2;Goiás/GO
+1;30/04/2022;23:00;Cuiabá/PR;1x1;Atlético/GO
+1;30/04/2022;22:30;Goiás/GO;2x2;Atlético/MG
+1;30/04/2022;20:30;América/MG;1x0;Atlético/PR
+1;30/04/2022;20:30;Ceará/CE;0x1;Bragantino/SP
+1;01/05/2022;23:00;Internacional/RS;0x0;Avaí/SC
+1;01/05/2022;20:00;Corinthians/SP;1x0;Fortaleza/CE
+1;01/05/2022;20:00;Coritiba/PR;3x2;Fluminense/RJ
+1;01/05/2022;15:00;Botafogo/RJ;1x1;Juventude/RS
+1;03/05/2022;00:00;São Paulo/SP;2x1;Santos/SP
+1;07/05/2022;20:30;Atlético/MG;1x2;América/MG
+1;08/05/2022;23:00;Fortaleza/CE;1x1;São Paulo/SP
+1;08/05/2022;23:00;Juventude/RS;1x1;Internacional/RS
+1;08/05/2022;22:00;Bragantino/SP;0x1;Corinthians/SP
+1;08/05/2022;22:00;Santos/SP;4x1;Cuiabá/PR
+1;08/05/2022;20:00;Atlético/GO;0x1;Goiás/GO
+1;08/05/2022;20:00;Palmeiras/SP;1x1;Fluminense/RJ
+1;08/05/2022;15:00;Flamengo/RJ;0x1;Botafogo/RJ
+1;08/05/2022;00:30;Atlético/PR;1x0;Ceará/CE
+1;10/05/2022;00:00;Avaí/SC;2x1;Coritiba/PR
+1;12/05/2022;00:30;Bragantino/SP;1x1;Atlético/MG
+1;14/05/2022;23:00;Atlético/MG;2x0;Atlético/GO
+1;14/05/2022;23:00;Internacional/RS;2x2;Corinthians/SP
+1;14/05/2022;20:30;Ceará/CE;2x2;Flamengo/RJ
+1;14/05/2022;20:30;Palmeiras/SP;2x0;Bragantino/SP
+1;15/05/2022;23:00;Goiás/GO;1x0;Santos/SP
+1;15/05/2022;22:00;Avaí/SC;1x2;Juventude/RS
+1;15/05/2022;22:00;Botafogo/RJ;3x1;Fortaleza/CE
+1;15/05/2022;21:30;Coritiba/PR;1x0;América/MG
+1;15/05/2022;20:00;São Paulo/SP;2x1;Cuiabá/PR
+1;15/05/2022;01:00;Fluminense/RJ;2x1;Atlético/PR
+1;21/05/2022;23:00;Juventude/RS;0x3;Palmeiras/SP
+1;21/05/2022;22:30;Santos/SP;0x0;Ceará/CE
+1;21/05/2022;20:30;Atlético/GO;2x0;Coritiba/PR
+1;21/05/2022;20:30;Flamengo/RJ;1x0;Goiás/GO
+1;22/05/2022;23:00;Atlético/PR;2x1;Avaí/SC
+1;22/05/2022;20:00;Corinthians/SP;1x1;São Paulo/SP
+1;22/05/2022;20:00;Fortaleza/CE;0x1;Fluminense/RJ
+1;22/05/2022;01:00;América/MG;1x1;Botafogo/RJ
+1;22/05/2022;01:00;Cuiabá/PR;1x1;Internacional/RS
+1;28/05/2022;23:00;São Paulo/SP;2x2;Ceará/CE
+1;28/05/2022;20:30;Goiás/GO;1x1;Bragantino/SP
+1;29/05/2022;23:00;Atlético/MG;2x1;Avaí/SC
+1;29/05/2022;22:00;Corinthians/SP;1x1;América/MG
+1;29/05/2022;22:00;Cuiabá/PR;0x1;Atlético/PR
+1;29/05/2022;22:00;Fluminense/RJ;1x2;Flamengo/RJ
+1;29/05/2022;20:00;Coritiba/PR;1x0;Botafogo/RJ
+1;29/05/2022;20:00;Santos/SP;0x1;Palmeiras/SP
+1;29/05/2022;00:30;Fortaleza/CE;1x1;Juventude/RS
+1;31/05/2022;00:00;Internacional/RS;1x1;Atlético/GO
+1;02/06/2022;00:30;Fortaleza/CE;0x1;Ceará/CE
+1;04/06/2022;23:00;Atlético/PR;2x2;Santos/SP
+1;04/06/2022;23:00;Avaí/SC;1x1;São Paulo/SP
+1;04/06/2022;23:00;Ceará/CE;1x1;Coritiba/PR
+1;04/06/2022;20:30;América/MG;2x1;Cuiabá/PR
+1;05/06/2022;23:00;Bragantino/SP;0x2;Internacional/RS
+1;05/06/2022;20:00;Flamengo/RJ;1x2;Fortaleza/CE
+1;05/06/2022;20:00;Palmeiras/SP;0x0;Atlético/MG
+1;05/06/2022;15:00;Juventude/RS;1x0;Fluminense/RJ
+1;05/06/2022;00:30;Atlético/GO;0x1;Corinthians/SP
+1;07/06/2022;00:00;Botafogo/RJ;1x2;Goiás/GO
+1;08/06/2022;23:00;América/MG;0x2;Ceará/CE
+1;08/06/2022;23:00;Juventude/RS;1x3;Atlético/PR
+1;08/06/2022;01:30;Cuiabá/PR;1x0;Corinthians/SP
+1;09/06/2022;23:00;Palmeiras/SP;4x0;Botafogo/RJ
+1;09/06/2022;01:30;Fluminense/RJ;5x3;Atlético/MG
+1;09/06/2022;01:30;Santos/SP;1x1;Internacional/RS
+1;09/06/2022;00:30;Atlético/GO;2x1;Avaí/SC
+1;09/06/2022;00:30;Bragantino/SP;1x0;Flamengo/RJ
+1;10/06/2022;00:00;Coritiba/PR;1x1;São Paulo/SP
+1;10/06/2022;00:00;Fortaleza/CE;1x1;Goiás/GO
+1;11/06/2022;23:00;Atlético/MG;1x1;Santos/SP
+1;11/06/2022;23:00;Cuiabá/PR;1x1;Bragantino/SP
+1;11/06/2022;23:00;Fluminense/RJ;0x2;Atlético/GO
+1;11/06/2022;20:30;Corinthians/SP;2x0;Juventude/RS
+1;12/06/2022;23:00;Fortaleza/CE;0x0;Atlético/PR
+1;12/06/2022;22:00;Coritiba/PR;0x2;Palmeiras/SP
+1;12/06/2022;20:00;Goiás/GO;1x1;Ceará/CE
+1;12/06/2022;20:00;São Paulo/SP;1x0;América/MG
+1;12/06/2022;01:00;Internacional/RS;3x1;Flamengo/RJ
+1;13/06/2022;23:00;Botafogo/RJ;0x1;Avaí/SC
+1;15/06/2022;23:00;Ceará/CE;0x0;Atlético/MG
+1;15/06/2022;23:00;Bragantino/SP;4x2;Coritiba/PR
+1;15/06/2022;01:30;Juventude/RS;1x2;Santos/SP
+1;16/06/2022;23:00;Avaí/SC;3x2;Fortaleza/CE
+1;16/06/2022;22:00;Palmeiras/SP;4x2;Atlético/GO
+1;16/06/2022;20:00;Botafogo/RJ;1x0;São Paulo/SP
+1;16/06/2022;01:30;América/MG;0x0;Fluminense/RJ
+1;16/06/2022;01:30;Atlético/PR;1x1;Corinthians/SP
+1;16/06/2022;00:30;Flamengo/RJ;2x0;Cuiabá/PR
+1;16/06/2022;00:30;Goiás/GO;1x2;Internacional/RS
+1;18/06/2022;23:00;Cuiabá/PR;0x0;Ceará/CE
+1;19/06/2022;23:00;Fluminense/RJ;2x0;Avaí/SC
+1;19/06/2022;22:00;Atlético/GO;3x1;Juventude/RS
+1;19/06/2022;22:00;Fortaleza/CE;1x0;América/MG
+1;19/06/2022;22:00;Internacional/RS;2x3;Botafogo/RJ
+1;19/06/2022;20:00;Atlético/MG;2x0;Flamengo/RJ
+1;19/06/2022;20:00;Corinthians/SP;1x0;Goiás/GO
+1;19/06/2022;20:00;Coritiba/PR;0x1;Atlético/PR
+1;19/06/2022;01:00;Santos/SP;2x2;Bragantino/SP
+1;21/06/2022;00:00;São Paulo/SP;1x2;Palmeiras/SP
+1;25/06/2022;23:00;Corinthians/SP;0x0;Santos/SP
+1;25/06/2022;23:00;Flamengo/RJ;3x0;América/MG
+1;25/06/2022;20:30;Atlético/PR;4x2;Bragantino/SP
+1;25/06/2022;01:30;Internacional/RS;3x0;Coritiba/PR
+1;26/06/2022;22:00;Ceará/CE;1x1;Atlético/GO
+1;26/06/2022;22:00;Goiás/GO;1x0;Cuiabá/PR
+1;26/06/2022;22:00;São Paulo/SP;0x0;Juventude/RS
+1;26/06/2022;20:00;Avaí/SC;2x2;Palmeiras/SP
+1;26/06/2022;20:00;Botafogo/RJ;0x1;Fluminense/RJ
+1;26/06/2022;01:00;Atlético/MG;3x2;Fortaleza/CE
+1;02/07/2022;23:00;Ceará/CE;1x1;Internacional/RS
+1;02/07/2022;23:00;Santos/SP;1x2;Flamengo/RJ
+1;02/07/2022;20:30;Fluminense/RJ;4x0;Corinthians/SP
+1;02/07/2022;20:30;Juventude/RS;1x2;Atlético/MG
+1;03/07/2022;22:00;América/MG;1x0;Goiás/GO
+1;03/07/2022;22:00;Coritiba/PR;2x1;Fortaleza/CE
+1;03/07/2022;20:00;Atlético/GO;1x2;São Paulo/SP
+1;03/07/2022;15:00;Avaí/SC;1x2;Cuiabá/PR
+1;03/07/2022;01:00;Palmeiras/SP;0x2;Atlético/PR
+1;05/07/2022;00:00;Bragantino/SP;0x1;Botafogo/RJ
+1;09/07/2022;23:00;Fluminense/RJ;2x1;Ceará/CE
+1;09/07/2022;20:30;Bragantino/SP;4x0;Avaí/SC
+1;10/07/2022;23:00;Cuiabá/PR;2x0;Botafogo/RJ
+1;10/07/2022;22:00;Atlético/MG;0x0;São Paulo/SP
+1;10/07/2022;22:00;Fortaleza/CE;0x0;Palmeiras/SP
+1;10/07/2022;22:00;Santos/SP;1x0;Atlético/GO
+1;10/07/2022;20:00;Corinthians/SP;1x0;Flamengo/RJ
+1;10/07/2022;15:00;Coritiba/PR;2x2;Juventude/RS
+1;10/07/2022;00:30;Goiás/GO;2x1;Atlético/PR
+1;12/07/2022;00:00;Internacional/RS;1x0;América/MG
+1;16/07/2022;23:00;Avaí/SC;1x0;Santos/SP
+1;16/07/2022;23:00;Flamengo/RJ;2x0;Coritiba/PR
+1;16/07/2022;20:30;Atlético/PR;0x0;Internacional/RS
+1;17/07/2022;23:00;América/MG;0x3;Bragantino/SP
+1;17/07/2022;22:00;Atlético/GO;0x1;Fortaleza/CE
+1;17/07/2022;22:00;Botafogo/RJ;0x1;Atlético/MG
+1;17/07/2022;20:00;São Paulo/SP;2x2;Fluminense/RJ
+1;17/07/2022;15:00;Juventude/RS;0x0;Goiás/GO
+1;17/07/2022;01:00;Ceará/CE;3x1;Corinthians/SP
+1;19/07/2022;00:00;Palmeiras/SP;1x0;Cuiabá/PR
+1;20/07/2022;23:30;Atlético/PR;4x1;Atlético/GO
+1;20/07/2022;23:00;Goiás/GO;2x3;Fluminense/RJ
+1;20/07/2022;23:00;Bragantino/SP;2x1;Fortaleza/CE
+1;20/07/2022;01:30;Ceará/CE;1x0;Avaí/SC
+1;21/07/2022;23:00;Cuiabá/PR;1x1;Atlético/MG
+1;21/07/2022;01:30;Corinthians/SP;3x1;Coritiba/PR
+1;21/07/2022;01:30;Santos/SP;2x0;Botafogo/RJ
+1;21/07/2022;00:30;Flamengo/RJ;4x0;Juventude/RS
+1;21/07/2022;00:30;Internacional/RS;3x3;São Paulo/SP
+1;22/07/2022;00:00;América/MG;0x1;Palmeiras/SP
+2;23/07/2022;23:00;São Paulo/SP;3x3;Goiás/GO
+2;24/07/2022;23:00;Fortaleza/CE;0x0;Santos/SP
+2;24/07/2022;22:00;Atlético/GO;0x1;América/MG
+2;24/07/2022;22:00;Atlético/MG;1x2;Corinthians/SP
+2;24/07/2022;20:00;Fluminense/RJ;2x1;Bragantino/SP
+2;24/07/2022;20:00;Juventude/RS;1x0;Ceará/CE
+2;24/07/2022;20:00;Palmeiras/SP;2x1;Internacional/RS
+2;24/07/2022;15:00;Avaí/SC;1x2;Flamengo/RJ
+2;24/07/2022;01:00;Botafogo/RJ;2x0;Atlético/PR
+2;26/07/2022;00:00;Coritiba/PR;1x0;Cuiabá/PR
+2;30/07/2022;23:00;Corinthians/SP;1x0;Botafogo/RJ
+2;30/07/2022;20:30;Ceará/CE;1x2;Palmeiras/SP
+2;30/07/2022;20:30;Goiás/GO;1x0;Coritiba/PR
+2;31/07/2022;23:00;Bragantino/SP;1x0;Juventude/RS
+2;31/07/2022;22:00;América/MG;3x1;Avaí/SC
+2;31/07/2022;22:00;Cuiabá/PR;0x1;Fortaleza/CE
+2;31/07/2022;20:00;Atlético/PR;1x0;São Paulo/SP
+2;31/07/2022;20:00;Internacional/RS;3x0;Atlético/MG
+2;31/07/2022;00:30;Flamengo/RJ;4x1;Atlético/GO
+2;02/08/2022;00:00;Santos/SP;2x2;Fluminense/RJ
+2;06/08/2022;23:00;Atlético/GO;2x1;Bragantino/SP
+2;06/08/2022;23:00;Avaí/SC;1x1;Corinthians/SP
+2;06/08/2022;20:30;Botafogo/RJ;1x1;Ceará/CE
+2;06/08/2022;20:30;Juventude/RS;0x1;América/MG
+2;07/08/2022;23:00;Atlético/MG;2x3;Atlético/PR
+2;07/08/2022;22:00;Fortaleza/CE;3x0;Internacional/RS
+2;07/08/2022;20:00;Fluminense/RJ;1x0;Cuiabá/PR
+2;07/08/2022;20:00;Palmeiras/SP;3x0;Goiás/GO
+2;07/08/2022;00:30;São Paulo/SP;0x2;Flamengo/RJ
+2;09/08/2022;00:00;Coritiba/PR;1x2;Santos/SP
+2;13/08/2022;23:00;Corinthians/SP;0x1;Palmeiras/SP
+2;13/08/2022;20:30;Goiás/GO;1x1;Avaí/SC
+2;14/08/2022;23:00;Internacional/RS;3x0;Fluminense/RJ
+2;14/08/2022;22:00;América/MG;1x0;Santos/SP
+2;14/08/2022;20:00;Ceará/CE;0x1;Fortaleza/CE
+2;14/08/2022;20:00;Flamengo/RJ;5x0;Atlético/PR
+2;14/08/2022;20:00;São Paulo/SP;3x0;Bragantino/SP
+2;14/08/2022;15:00;Coritiba/PR;0x1;Atlético/MG
+2;14/08/2022;01:00;Botafogo/RJ;0x0;Atlético/GO
+2;14/08/2022;00:30;Cuiabá/PR;1x0;Juventude/RS
+2;20/08/2022;23:00;Fluminense/RJ;5x2;Coritiba/PR
+2;20/08/2022;20:30;Atlético/MG;0x1;Goiás/GO
+2;21/08/2022;23:00;Santos/SP;1x0;São Paulo/SP
+2;21/08/2022;22:00;Atlético/PR;1x1;América/MG
+2;21/08/2022;22:00;Atlético/GO;1x1;Cuiabá/PR
+2;21/08/2022;22:00;Fortaleza/CE;1x0;Corinthians/SP
+2;21/08/2022;22:00;Bragantino/SP;1x1;Ceará/CE
+2;21/08/2022;20:00;Palmeiras/SP;1x1;Flamengo/RJ
+2;21/08/2022;15:00;Juventude/RS;2x2;Botafogo/RJ
+2;23/08/2022;00:00;Avaí/SC;0x1;Internacional/RS
+2;27/08/2022;23:00;Fluminense/RJ;1x1;Palmeiras/SP
+2;27/08/2022;20:30;Coritiba/PR;1x0;Avaí/SC
+2;27/08/2022;20:30;Goiás/GO;2x1;Atlético/GO
+2;28/08/2022;22:00;Botafogo/RJ;0x1;Flamengo/RJ
+2;28/08/2022;22:00;Cuiabá/PR;0x0;Santos/SP
+2;28/08/2022;20:00;América/MG;1x1;Atlético/MG
+2;28/08/2022;20:00;São Paulo/SP;0x1;Fortaleza/CE
+2;28/08/2022;01:00;Ceará/CE;0x0;Atlético/PR
+2;30/08/2022;01:30;Corinthians/SP;1x0;Bragantino/SP
+2;30/08/2022;00:00;Internacional/RS;4x0;Juventude/RS
+2;03/09/2022;23:00;Atlético/PR;1x0;Fluminense/RJ
+2;03/09/2022;23:00;Bragantino/SP;2x2;Palmeiras/SP
+2;03/09/2022;20:30;Juventude/RS;1x1;Avaí/SC
+2;04/09/2022;23:00;Cuiabá/PR;1x1;São Paulo/SP
+2;04/09/2022;22:00;Atlético/GO;0x2;Atlético/MG
+2;04/09/2022;20:00;Corinthians/SP;2x2;Internacional/RS
+2;04/09/2022;20:00;Fortaleza/CE;1x3;Botafogo/RJ
+2;04/09/2022;15:00;Flamengo/RJ;1x1;Ceará/CE
+2;04/09/2022;00:30;América/MG;2x0;Coritiba/PR
+2;06/09/2022;00:00;Santos/SP;1x2;Goiás/GO
+2;07/09/2022;21:00;Atlético/MG;1x1;Bragantino/SP
+2;10/09/2022;23:00;Fluminense/RJ;2x1;Fortaleza/CE
+2;10/09/2022;20:30;Ceará/CE;2x1;Santos/SP
+2;10/09/2022;20:30;Internacional/RS;1x0;Cuiabá/PR
+2;11/09/2022;23:00;Goiás/GO;1x1;Flamengo/RJ
+2;11/09/2022;20:00;Coritiba/PR;2x0;Atlético/GO
+2;11/09/2022;20:00;São Paulo/SP;1x1;Corinthians/SP
+2;11/09/2022;15:00;Avaí/SC;1x1;Atlético/PR
+2;11/09/2022;15:00;Botafogo/RJ;0x0;América/MG
+2;11/09/2022;01:00;Palmeiras/SP;2x1;Juventude/RS
+2;17/09/2022;23:00;Botafogo/RJ;2x0;Coritiba/PR
+2;17/09/2022;20:30;Avaí/SC;1x0;Atlético/MG
+2;18/09/2022;23:00;Atlético/PR;2x2;Cuiabá/PR
+2;18/09/2022;22:30;Palmeiras/SP;1x0;Santos/SP
+2;18/09/2022;22:00;América/MG;1x0;Corinthians/SP
+2;18/09/2022;22:00;Juventude/RS;1x1;Fortaleza/CE
+2;18/09/2022;20:00;Ceará/CE;0x2;São Paulo/SP
+2;18/09/2022;20:00;Flamengo/RJ;1x2;Fluminense/RJ
+2;18/09/2022;15:00;Bragantino/SP;1x1;Goiás/GO
+2;20/09/2022;00:00;Atlético/GO;1x2;Internacional/RS
+2;26/09/2022;00:00;São Paulo/SP;4x0;Avaí/SC
+2;28/09/2022;23:00;Corinthians/SP;2x1;Atlético/GO
+2;28/09/2022;23:00;Coritiba/PR;1x0;Ceará/CE
+2;28/09/2022;23:00;Fluminense/RJ;4x0;Juventude/RS
+2;28/09/2022;23:00;Fortaleza/CE;3x2;Flamengo/RJ
+2;28/09/2022;01:00;Santos/SP;2x0;Atlético/PR
+2;29/09/2022;01:45;Atlético/MG;0x1;Palmeiras/SP
+2;29/09/2022;01:45;Goiás/GO;0x1;Botafogo/RJ
+2;29/09/2022;01:45;Internacional/RS;0x0;Bragantino/SP
+2;29/09/2022;01:00;Cuiabá/PR;2x1;América/MG
+2;01/10/2022;23:00;Atlético/PR;2x0;Juventude/RS
+2;01/10/2022;23:00;Avaí/SC;1x2;Atlético/GO
+2;01/10/2022;23:00;Flamengo/RJ;4x1;Bragantino/SP
+2;01/10/2022;23:00;Goiás/GO;0x1;Fortaleza/CE
+2;01/10/2022;19:00;Atlético/MG;2x0;Fluminense/RJ
+2;01/10/2022;19:00;Ceará/CE;1x2;América/MG
+2;01/10/2022;19:00;Internacional/RS;1x0;Santos/SP
+2;02/10/2022;01:00;Corinthians/SP;2x0;Cuiabá/PR
+2;04/10/2022;00:00;Botafogo/RJ;1x3;Palmeiras/SP
+2;05/10/2022;23:30;Atlético/PR;1x1;Fortaleza/CE
+2;05/10/2022;23:00;Atlético/GO;3x2;Fluminense/RJ
+2;05/10/2022;23:00;Ceará/CE;1x1;Goiás/GO
+2;05/10/2022;23:00;Bragantino/SP;2x1;Cuiabá/PR
+2;05/10/2022;01:30;Juventude/RS;2x2;Corinthians/SP
+2;06/10/2022;23:00;Palmeiras/SP;4x0;Coritiba/PR
+2;06/10/2022;01:30;Flamengo/RJ;0x0;Internacional/RS
+2;06/10/2022;01:30;Santos/SP;1x2;Atlético/MG
+2;07/10/2022;00:00;América/MG;1x2;São Paulo/SP
+2;07/10/2022;00:00;Avaí/SC;1x2;Botafogo/RJ
+2;08/10/2022;23:00;Cuiabá/PR;1x2;Flamengo/RJ
+2;09/10/2022;22:00;Atlético/MG;0x0;Ceará/CE
+2;09/10/2022;22:00;Coritiba/PR;2x1;Bragantino/SP
+2;09/10/2022;22:00;Fluminense/RJ;0x2;América/MG
+2;09/10/2022;20:00;Fortaleza/CE;2x0;Avaí/SC
+2;09/10/2022;20:00;São Paulo/SP;0x1;Botafogo/RJ
+2;09/10/2022;15:00;Internacional/RS;4x2;Goiás/GO
+2;09/10/2022;01:00;Corinthians/SP;2x1;Atlético/PR
+2;10/10/2022;22:30;Atlético/GO;1x1;Palmeiras/SP
+2;11/10/2022;00:00;Santos/SP;4x1;Juventude/RS
+2;16/10/2022;23:00;Atlético/PR;1x0;Coritiba/PR
+2;16/10/2022;23:00;Avaí/SC;0x3;Fluminense/RJ
+2;16/10/2022;22:00;Botafogo/RJ;0x1;Internacional/RS
+2;16/10/2022;22:00;Juventude/RS;1x1;Atlético/GO
+2;16/10/2022;20:00;Ceará/CE;1x1;Cuiabá/PR
+2;16/10/2022;20:00;Palmeiras/SP;0x0;São Paulo/SP
+2;16/10/2022;00:30;América/MG;1x2;Fortaleza/CE
+2;16/10/2022;00:30;Flamengo/RJ;1x0;Atlético/MG
+2;18/10/2022;00:00;Bragantino/SP;0x2;Santos/SP
+2;21/10/2022;00:00;São Paulo/SP;3x1;Coritiba/PR
+2;22/10/2022;23:00;América/MG;1x2;Flamengo/RJ
+2;22/10/2022;23:00;Santos/SP;0x1;Corinthians/SP
+2;22/10/2022;20:30;Bragantino/SP;4x2;Atlético/PR
+2;23/10/2022;22:00;Atlético/GO;1x0;Ceará/CE
+2;23/10/2022;22:00;Coritiba/PR;1x1;Internacional/RS
+2;23/10/2022;22:00;Cuiabá/PR;1x2;Goiás/GO
+2;23/10/2022;20:00;Fluminense/RJ;2x2;Botafogo/RJ
+2;23/10/2022;20:00;Juventude/RS;1x2;São Paulo/SP
+2;23/10/2022;01:00;Palmeiras/SP;3x0;Avaí/SC
+2;25/10/2022;00:00;Fortaleza/CE;0x0;Atlético/MG
+2;26/10/2022;23:30;Botafogo/RJ;2x1;Bragantino/SP
+2;26/10/2022;01:45;Atlético/PR;1x3;Palmeiras/SP
+2;26/10/2022;01:45;Flamengo/RJ;3x2;Santos/SP
+2;27/10/2022;23:30;Atlético/MG;1x0;Juventude/RS
+2;27/10/2022;23:00;Fortaleza/CE;3x1;Coritiba/PR
+2;27/10/2022;23:00;São Paulo/SP;2x1;Atlético/GO
+2;27/10/2022;01:45;Corinthians/SP;0x2;Fluminense/RJ
+2;27/10/2022;01:45;Goiás/GO;2x2;América/MG
+2;27/10/2022;01:45;Internacional/RS;2x1;Ceará/CE
+2;28/10/2022;00:00;Cuiabá/PR;1x0;Avaí/SC
+2;29/10/2022;23:30;Goiás/GO;0x0;Corinthians/SP
+2;31/10/2022;23:00;Ceará/CE;0x1;Fluminense/RJ
+2;01/11/2022;22:00;Botafogo/RJ;0x2;Cuiabá/PR
+2;02/11/2022;22:00;Atlético/GO;2x3;Santos/SP
+2;02/11/2022;22:00;Avaí/SC;1x2;Bragantino/SP
+2;02/11/2022;22:00;Juventude/RS;0x1;Coritiba/PR
+2;02/11/2022;19:00;América/MG;1x0;Internacional/RS
+2;02/11/2022;19:00;Atlético/PR;3x2;Goiás/GO
+2;02/11/2022;00:30;São Paulo/SP;2x2;Atlético/MG
+2;03/11/2022;00:30;Flamengo/RJ;1x2;Corinthians/SP
+2;03/11/2022;00:30;Palmeiras/SP;4x0;Fortaleza/CE
+2;05/11/2022;23:30;Corinthians/SP;1x0;Ceará/CE
+2;05/11/2022;22:00;Goiás/GO;1x0;Juventude/RS
+2;05/11/2022;22:00;Bragantino/SP;1x4;América/MG
+2;05/11/2022;19:30;Fluminense/RJ;3x1;São Paulo/SP
+2;05/11/2022;19:30;Santos/SP;1x1;Avaí/SC
+2;06/11/2022;21:30;Cuiabá/PR;1x1;Palmeiras/SP
+2;06/11/2022;19:00;Coritiba/PR;1x0;Flamengo/RJ
+2;06/11/2022;19:00;Fortaleza/CE;1x1;Atlético/GO
+2;06/11/2022;00:00;Internacional/RS;2x0;Atlético/PR
+2;07/11/2022;23:00;Atlético/MG;0x2;Botafogo/RJ
+2;09/11/2022;23:30;Fortaleza/CE;6x0;Bragantino/SP
+2;09/11/2022;22:00;Avaí/SC;2x0;Ceará/CE
+2;09/11/2022;22:00;Coritiba/PR;2x2;Corinthians/SP
+2;09/11/2022;22:00;Fluminense/RJ;3x0;Goiás/GO
+2;09/11/2022;00:30;São Paulo/SP;0x1;Internacional/RS
+2;10/11/2022;23:00;Atlético/MG;3x0;Cuiabá/PR
+2;10/11/2022;23:00;Botafogo/RJ;3x0;Santos/SP
+2;10/11/2022;00:30;Atlético/GO;1x1;Atlético/PR
+2;10/11/2022;00:30;Juventude/RS;2x2;Flamengo/RJ
+2;10/11/2022;00:30;Palmeiras/SP;2x1;América/MG
+2;12/11/2022;19:00;Flamengo/RJ;1x2;Avaí/SC
+2;13/11/2022;19:00;América/MG;1x1;Atlético/GO
+2;13/11/2022;19:00;Atlético/PR;3x0;Botafogo/RJ
+2;13/11/2022;19:00;Ceará/CE;4x1;Juventude/RS
+2;13/11/2022;19:00;Corinthians/SP;0x1;Atlético/MG
+2;13/11/2022;19:00;Cuiabá/PR;2x1;Coritiba/PR
+2;13/11/2022;19:00;Goiás/GO;0x4;São Paulo/SP
+2;13/11/2022;19:00;Internacional/RS;3x0;Palmeiras/SP
+2;13/11/2022;19:00;Bragantino/SP;0x1;Fluminense/RJ
+2;13/11/2022;19:00;Santos/SP;0x2;Fortaleza/CE
