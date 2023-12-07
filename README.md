@@ -54,7 +54,7 @@ PROMPT: perl do-mc.pl 2010
 - Look at folder ./spreadsheets/ for examples 
 
 # How to cite this dataset
-Czekster, Ricardo M. (2020), *Brazilian Championship A-Series*, Mendeley Data, v1 DOI: [10.17632/thsvj4sycn.1](https://dx.doi.org/10.17632/thsvj4sycn.1)
+Czekster, Ricardo M. (2023), *Brazilian Championship A-Series*, Kaggle Dataset DOI: [10.34740/kaggle/ds/1050099](https://dx.doi.org/10.34740/kaggle/ds/1050099)
  
 # How to cite this work
 Czekster, Ricardo M. (2020), *Predicting Brazilian Football Championship first and last four teams between 2006 to 2019 since mid-season*, Jan/2020 (non peer reviewed pre-print), DOI: [10.13140/RG.2.2.33748.96646/2](https://dx.doi.org/10.13140/RG.2.2.33748.96646/2)
