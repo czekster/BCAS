@@ -8405,3 +8405,383 @@
 1;15/04/2023;19:30;Bragantino/SP;2x1;Bahia/BA
 1;15/04/2023;17:00;América/MG;0x3;Fluminense/RJ
 1;15/04/2023;17:00;Palmeiras/SP;2x1;Cuiabá/MT
+1;08/12/2024;16:00;Atlético/MG;1x0;Atlético/PR
+1;08/12/2024;16:00;Bahia/BA;2x0;Atlético/GO
+1;08/12/2024;16:00;Botafogo/RJ;2x1;São Paulo/SP
+1;08/12/2024;16:00;Cuiabá/MT;1x2;Vasco/RJ
+1;08/12/2024;16:00;Flamengo/RJ;2x2;Vitória/BA
+1;08/12/2024;16:00;Fortaleza/CE;3x0;Internacional/RS
+1;08/12/2024;16:00;Grêmio/RS;0x3;Corinthians/SP
+1;08/12/2024;16:00;Juventude/RS;0x1;Cruzeiro/MG
+1;08/12/2024;16:00;Palmeiras/SP;0x1;Fluminense/RJ
+1;08/12/2024;16:00;Bragantino/SP;5x1;Criciúma/SC
+1;05/12/2024;20:00;Atlético/PR;1x2;Bragantino/SP
+1;05/12/2024;20:00;Fluminense/RJ;1x0;Cuiabá/MT
+1;04/12/2024;21:30;Atlético/GO;3x1;Fortaleza/CE
+1;04/12/2024;21:30;Cruzeiro/MG;1x2;Palmeiras/SP
+1;04/12/2024;21:30;Internacional/RS;0x1;Botafogo/RJ
+1;04/12/2024;20:00;Criciúma/SC;0x3;Flamengo/RJ
+1;04/12/2024;20:00;São Paulo/SP;1x2;Juventude/RS
+1;04/12/2024;20:00;Vitória/BA;1x1;Grêmio/RS
+1;04/12/2024;19:00;Vasco/RJ;2x0;Atlético/MG
+1;03/12/2024;20:00;Corinthians/SP;3x0;Bahia/BA
+1;01/12/2024;18:30;Atlético/PR;1x1;Fluminense/RJ
+1;01/12/2024;18:30;Bragantino/SP;1x1;Cruzeiro/MG
+1;01/12/2024;18:30;Vitória/BA;2x0;Fortaleza/CE
+1;01/12/2024;16:00;Flamengo/RJ;3x2;Internacional/RS
+1;01/12/2024;16:00;Grêmio/RS;2x1;São Paulo/SP
+1;30/11/2024;21:30;Vasco/RJ;2x2;Atlético/GO
+1;30/11/2024;19:30;Criciúma/SC;2x4;Corinthians/SP
+1;30/11/2024;19:30;Cuiabá/MT;1x2;Bahia/BA
+1;27/11/2024;21:00;Cruzeiro/MG;1x1;Grêmio/RS
+1;26/11/2024;21:30;Atlético/MG;2x3;Juventude/RS
+1;26/11/2024;21:30;Palmeiras/SP;1x3;Botafogo/RJ
+1;26/11/2024;20:00;Fortaleza/CE;0x0;Flamengo/RJ
+1;26/11/2024;19:00;Fluminense/RJ;0x0;Criciúma/SC
+1;24/11/2024;16:00;Bahia/BA;1x1;Atlético/PR
+1;24/11/2024;16:00;Corinthians/SP;3x1;Vasco/RJ
+1;24/11/2024;16:00;Internacional/RS;4x1;Bragantino/SP
+1;23/11/2024;21:30;São Paulo/SP;2x2;Atlético/MG
+1;23/11/2024;19:30;Atlético/GO;0x1;Palmeiras/SP
+1;23/11/2024;19:30;Botafogo/RJ;1x1;Vitória/BA
+1;23/11/2024;19:30;Juventude/RS;1x1;Cuiabá/MT
+1;22/11/2024;21:30;Fluminense/RJ;2x2;Fortaleza/CE
+1;21/11/2024;20:00;Vasco/RJ;0x1;Internacional/RS
+1;20/11/2024;21:30;Atlético/MG;0x0;Botafogo/RJ
+1;20/11/2024;19:00;Cuiabá/MT;1x2;Flamengo/RJ
+1;20/11/2024;19:00;Grêmio/RS;2x2;Juventude/RS
+1;20/11/2024;18:00;Bahia/BA;1x2;Palmeiras/SP
+1;20/11/2024;16:30;Atlético/PR;2x0;Atlético/GO
+1;20/11/2024;16:30;Criciúma/SC;0x1;Vitória/BA
+1;20/11/2024;16:30;Bragantino/SP;1x1;São Paulo/SP
+1;20/11/2024;11:00;Corinthians/SP;2x1;Cruzeiro/MG
+1;16/11/2024;18:30;Atlético/PR;1x0;Atlético/MG
+1;13/11/2024;20:00;Flamengo/RJ;0x0;Atlético/MG
+1;09/11/2024;21:00;São Paulo/SP;2x1;Atlético/PR
+1;09/11/2024;19:00;Atlético/GO;0x0;Bragantino/SP
+1;09/11/2024;19:00;Cruzeiro/MG;2x1;Criciúma/SC
+1;09/11/2024;19:00;Fortaleza/CE;3x0;Vasco/RJ
+1;09/11/2024;19:00;Juventude/RS;2x1;Bahia/BA
+1;09/11/2024;16:30;Botafogo/RJ;0x0;Cuiabá/MT
+1;09/11/2024;16:30;Vitória/BA;1x2;Corinthians/SP
+1;08/11/2024;21:30;Palmeiras/SP;1x0;Grêmio/RS
+1;08/11/2024;19:00;Internacional/RS;2x0;Fluminense/RJ
+1;06/11/2024;21:00;Atlético/GO;1x0;Atlético/MG
+1;06/11/2024;21:00;Cruzeiro/MG;0x1;Flamengo/RJ
+1;05/11/2024;21:30;Bahia/BA;0x3;São Paulo/SP
+1;05/11/2024;21:30;Botafogo/RJ;3x0;Vasco/RJ
+1;05/11/2024;21:30;Internacional/RS;2x0;Criciúma/SC
+1;04/11/2024;20:00;Corinthians/SP;2x0;Palmeiras/SP
+1;02/11/2024;18:30;Atlético/PR;1x2;Vitória/BA
+1;02/11/2024;18:30;Juventude/RS;0x3;Fortaleza/CE
+1;02/11/2024;16:00;Bragantino/SP;0x0;Cuiabá/MT
+1;01/11/2024;21:00;Fluminense/RJ;2x2;Grêmio/RS
+1;30/10/2024;19:00;Internacional/RS;1x1;Flamengo/RJ
+1;28/10/2024;21:00;Vasco/RJ;3x2;Bahia/BA
+1;28/10/2024;19:00;Cuiabá/MT;0x1;Corinthians/SP
+1;26/10/2024;22:00;Criciúma/SC;1x1;São Paulo/SP
+1;26/10/2024;20:00;Atlético/MG;1x3;Internacional/RS
+1;26/10/2024;20:00;Bragantino/SP;0x1;Botafogo/RJ
+1;26/10/2024;19:30;Atlético/PR;3x0;Cruzeiro/MG
+1;26/10/2024;17:30;Flamengo/RJ;4x2;Juventude/RS
+1;26/10/2024;17:30;Grêmio/RS;3x1;Atlético/GO
+1;26/10/2024;17:30;Palmeiras/SP;2x2;Fortaleza/CE
+1;26/10/2024;17:30;Vitória/BA;2x1;Fluminense/RJ
+1;24/10/2024;20:00;Vasco/RJ;1x0;Cuiabá/MT
+1;22/10/2024;20:30;Fluminense/RJ;1x0;Atlético/PR
+1;20/10/2024;21:00;Juventude/RS;3x5;Palmeiras/SP
+1;19/10/2024;17:00;Internacional/RS;1x0;Grêmio/RS
+1;19/10/2024;17:00;Vitória/BA;1x0;Bragantino/SP
+1;18/10/2024;22:30;Cruzeiro/MG;1x1;Bahia/BA
+1;18/10/2024;21:00;Botafogo/RJ;1x1;Criciúma/SC
+1;18/10/2024;20:00;Atlético/GO;0x0;Cuiabá/MT
+1;17/10/2024;21:00;Corinthians/SP;5x2;Atlético/PR
+1;17/10/2024;21:00;Flamengo/RJ;0x2;Fluminense/RJ
+1;16/10/2024;22:45;Fortaleza/CE;1x1;Atlético/MG
+1;16/10/2024;22:45;São Paulo/SP;3x0;Vasco/RJ
+1;09/10/2024;20:30;Atlético/MG;2x1;Grêmio/RS
+1;05/10/2024;22:00;Vasco/RJ;1x1;Juventude/RS
+1;05/10/2024;20:00;Bahia/BA;0x2;Flamengo/RJ
+1;05/10/2024;20:00;Corinthians/SP;2x2;Internacional/RS
+1;05/10/2024;20:00;Cuiabá/MT;2x0;São Paulo/SP
+1;05/10/2024;17:30;Atlético/PR;0x1;Botafogo/RJ
+1;05/10/2024;17:30;Atlético/MG;2x2;Vitória/BA
+1;05/10/2024;17:30;Bragantino/SP;0x0;Palmeiras/SP
+1;04/10/2024;22:30;Grêmio/RS;3x1;Fortaleza/CE
+1;03/10/2024;22:30;Fluminense/RJ;1x0;Cruzeiro/MG
+1;03/10/2024;20:00;Criciúma/SC;2x0;Atlético/GO
+1;29/09/2024;21:00;Flamengo/RJ;1x0;Atlético/PR
+1;29/09/2024;19:30;Bahia/BA;1x0;Criciúma/SC
+1;29/09/2024;19:30;Cruzeiro/MG;1x1;Vasco/RJ
+1;29/09/2024;19:30;Internacional/RS;3x1;Vitória/BA
+1;29/09/2024;17:00;Atlético/GO;1x0;Fluminense/RJ
+1;29/09/2024;17:00;Fortaleza/CE;1x0;Cuiabá/MT
+1;29/09/2024;17:00;São Paulo/SP;3x1;Corinthians/SP
+1;29/09/2024;12:00;Juventude/RS;1x1;Bragantino/SP
+1;28/09/2024;22:00;Botafogo/RJ;0x0;Grêmio/RS
+1;28/09/2024;19:30;Palmeiras/SP;2x1;Atlético/MG
+1;25/09/2024;20:00;Grêmio/RS;1x2;Criciúma/SC
+1;25/09/2024;20:00;Bragantino/SP;2x2;Internacional/RS
+1;22/09/2024;21:00;Criciúma/SC;0x0;Atlético/PR
+1;22/09/2024;19:30;Cuiabá/MT;0x0;Cruzeiro/MG
+1;22/09/2024;19:30;Grêmio/RS;3x2;Flamengo/RJ
+1;22/09/2024;19:30;São Paulo/SP;1x3;Internacional/RS
+1;22/09/2024;17:00;Atlético/MG;3x0;Bragantino/SP
+1;22/09/2024;17:00;Vasco/RJ;0x1;Palmeiras/SP
+1;21/09/2024;22:00;Fortaleza/CE;4x1;Bahia/BA
+1;21/09/2024;19:30;Fluminense/RJ;0x1;Botafogo/RJ
+1;21/09/2024;17:00;Corinthians/SP;3x0;Atlético/GO
+1;21/09/2024;17:00;Vitória/BA;1x0;Juventude/RS
+1;16/09/2024;21:00;Internacional/RS;3x0;Cuiabá/MT
+1;15/09/2024;19:30;Bahia/BA;3x0;Atlético/MG
+1;15/09/2024;19:30;Cruzeiro/MG;0x1;São Paulo/SP
+1;15/09/2024;19:30;Flamengo/RJ;1x1;Vasco/RJ
+1;15/09/2024;17:00;Juventude/RS;2x1;Fluminense/RJ
+1;15/09/2024;17:00;Palmeiras/SP;5x0;Criciúma/SC
+1;15/09/2024;17:00;Bragantino/SP;2x2;Grêmio/RS
+1;14/09/2024;22:00;Botafogo/RJ;2x1;Corinthians/SP
+1;14/09/2024;19:30;Atlético/PR;1x1;Fortaleza/CE
+1;14/09/2024;17:00;Atlético/GO;0x2;Vitória/BA
+1;11/09/2024;20:30;Internacional/RS;2x1;Fortaleza/CE
+1;05/09/2024;21:00;Cuiabá/MT;0x0;Juventude/RS
+1;01/09/2024;19:30;Atlético/PR;0x2;Palmeiras/SP
+1;01/09/2024;19:30;Fluminense/RJ;2x0;São Paulo/SP
+1;01/09/2024;19:30;Juventude/RS;1x3;Internacional/RS
+1;01/09/2024;19:30;Bragantino/SP;2x1;Bahia/BA
+1;01/09/2024;19:30;Vitória/BA;0x1;Vasco/RJ
+1;01/09/2024;17:00;Corinthians/SP;2x1;Flamengo/RJ
+1;01/09/2024;12:00;Cruzeiro/MG;3x1;Atlético/GO
+1;01/09/2024;12:00;Grêmio/RS;2x3;Atlético/MG
+1;31/08/2024;22:00;Botafogo/RJ;2x0;Fortaleza/CE
+1;31/08/2024;19:30;Cuiabá/MT;2x1;Criciúma/SC
+1;28/08/2024;20:30;Criciúma/SC;1x0;Bragantino/SP
+1;28/08/2024;20:30;Cruzeiro/MG;0x0;Internacional/RS
+1;26/08/2024;22:00;Vasco/RJ;2x1;Atlético/PR
+1;25/08/2024;21:00;Flamengo/RJ;2x1;Bragantino/SP
+1;25/08/2024;20:00;Internacional/RS;1x0;Cruzeiro/MG
+1;25/08/2024;19:30;São Paulo/SP;2x1;Vitória/BA
+1;25/08/2024;17:00;Bahia/BA;0x0;Botafogo/RJ
+1;25/08/2024;17:00;Criciúma/SC;0x1;Grêmio/RS
+1;25/08/2024;17:00;Fortaleza/CE;1x0;Corinthians/SP
+1;24/08/2024;22:00;Atlético/MG;0x2;Fluminense/RJ
+1;24/08/2024;19:30;Palmeiras/SP;5x0;Cuiabá/MT
+1;24/08/2024;17:00;Atlético/GO;2x1;Juventude/RS
+1;19/08/2024;21:00;Vitória/BA;2x2;Cruzeiro/MG
+1;18/08/2024;19:30;Atlético/PR;1x2;Juventude/RS
+1;18/08/2024;19:30;Botafogo/RJ;4x1;Flamengo/RJ
+1;18/08/2024;17:00;Atlético/GO;1x0;Internacional/RS
+1;18/08/2024;17:00;Criciúma/SC;2x2;Vasco/RJ
+1;18/08/2024;17:00;Palmeiras/SP;2x1;São Paulo/SP
+1;17/08/2024;22:00;Fluminense/RJ;0x0;Corinthians/SP
+1;17/08/2024;19:30;Bragantino/SP;1x2;Fortaleza/CE
+1;17/08/2024;17:00;Atlético/MG;1x1;Cuiabá/MT
+1;17/08/2024;17:00;Grêmio/RS;0x2;Bahia/BA
+1;14/08/2024;20:30;Internacional/RS;2x1;Juventude/RS
+1;11/08/2024;20:00;Internacional/RS;2x2;Atlético/PR
+1;11/08/2024;17:00;Bahia/BA;2x0;Vitória/BA
+1;11/08/2024;17:00;Flamengo/RJ;1x1;Palmeiras/SP
+1;11/08/2024;17:00;São Paulo/SP;1x0;Atlético/GO
+1;11/08/2024;12:00;Juventude/RS;3x2;Botafogo/RJ
+1;10/08/2024;22:30;Corinthians/SP;1x1;Bragantino/SP
+1;10/08/2024;22:30;Cruzeiro/MG;0x0;Atlético/MG
+1;10/08/2024;22:30;Vasco/RJ;2x0;Fluminense/RJ
+1;10/08/2024;20:00;Cuiabá/MT;1x3;Grêmio/RS
+1;10/08/2024;17:00;Fortaleza/CE;1x0;Criciúma/SC
+1;05/08/2024;22:00;Cruzeiro/MG;1x2;Fortaleza/CE
+1;04/08/2024;18:00;Internacional/RS;1x1;Palmeiras/SP
+1;04/08/2024;17:00;Atlético/PR;0x2;Grêmio/RS
+1;04/08/2024;17:00;Corinthians/SP;1x1;Juventude/RS
+1;04/08/2024;17:00;Fluminense/RJ;1x0;Bahia/BA
+1;03/08/2024;22:30;São Paulo/SP;1x0;Flamengo/RJ
+1;03/08/2024;21:00;Atlético/GO;1x4;Botafogo/RJ
+1;03/08/2024;21:00;Criciúma/SC;2x1;Atlético/MG
+1;03/08/2024;20:00;Vasco/RJ;2x2;Bragantino/SP
+1;03/08/2024;17:00;Vitória/BA;1x0;Cuiabá/MT
+1;28/07/2024;20:00;Atlético/MG;2x1;Corinthians/SP
+1;28/07/2024;20:00;Cuiabá/MT;1x2;Atlético/PR
+1;28/07/2024;20:00;Grêmio/RS;1x0;Vasco/RJ
+1;28/07/2024;17:00;Flamengo/RJ;2x0;Atlético/GO
+1;28/07/2024;12:00;Bragantino/SP;0x1;Fluminense/RJ
+1;27/07/2024;22:30;Botafogo/RJ;0x3;Cruzeiro/MG
+1;27/07/2024;22:30;Fortaleza/CE;1x0;São Paulo/SP
+1;27/07/2024;21:00;Bahia/BA;1x1;Internacional/RS
+1;27/07/2024;20:00;Juventude/RS;1x2;Criciúma/SC
+1;27/07/2024;20:00;Palmeiras/SP;0x2;Vitória/BA
+1;25/07/2024;21:00;Corinthians/SP;2x2;Grêmio/RS
+1;24/07/2024;22:30;Atlético/GO;1x1;Bahia/BA
+1;24/07/2024;22:30;Fluminense/RJ;1x0;Palmeiras/SP
+1;24/07/2024;21:00;Vitória/BA;1x2;Flamengo/RJ
+1;24/07/2024;20:30;São Paulo/SP;2x2;Botafogo/RJ
+1;24/07/2024;20:00;Criciúma/SC;1x1;Fortaleza/CE
+1;24/07/2024;20:00;Cruzeiro/MG;2x0;Juventude/RS
+1;21/07/2024;21:00;Cuiabá/MT;0x1;Fluminense/RJ
+1;21/07/2024;19:30;Fortaleza/CE;3x1;Atlético/GO
+1;21/07/2024;19:30;Juventude/RS;0x0;São Paulo/SP
+1;21/07/2024;19:30;Bragantino/SP;1x0;Atlético/PR
+1;21/07/2024;17:00;Atlético/MG;2x0;Vasco/RJ
+1;21/07/2024;17:00;Bahia/BA;0x1;Corinthians/SP
+1;21/07/2024;12:00;Grêmio/RS;2x0;Vitória/BA
+1;20/07/2024;22:00;Palmeiras/SP;2x0;Cruzeiro/MG
+1;20/07/2024;19:30;Botafogo/RJ;1x0;Internacional/RS
+1;20/07/2024;17:00;Flamengo/RJ;2x1;Criciúma/SC
+1;17/07/2024;22:30;Botafogo/RJ;1x0;Palmeiras/SP
+1;17/07/2024;22:30;Fortaleza/CE;3x1;Vitória/BA
+1;17/07/2024;21:00;São Paulo/SP;1x0;Grêmio/RS
+1;17/07/2024;20:00;Atlético/GO;0x1;Vasco/RJ
+1;16/07/2024;22:00;Corinthians/SP;2x1;Criciúma/SC
+1;16/07/2024;20:00;Juventude/RS;1x1;Atlético/MG
+1;13/07/2024;17:00;Bahia/BA;1x2;Cuiabá/MT
+1;13/07/2024;17:00;Cruzeiro/MG;2x1;Bragantino/SP
+1;11/07/2024;22:30;Atlético/MG;2x1;São Paulo/SP
+1;11/07/2024;22:30;Vitória/BA;0x1;Botafogo/RJ
+1;11/07/2024;21:00;Criciúma/SC;1x1;Fluminense/RJ
+1;11/07/2024;21:00;Flamengo/RJ;1x2;Fortaleza/CE
+1;11/07/2024;20:30;Palmeiras/SP;3x1;Atlético/GO
+1;10/07/2024;20:00;Atlético/PR;1x3;Bahia/BA
+1;10/07/2024;20:00;Vasco/RJ;2x0;Corinthians/SP
+1;10/07/2024;19:30;Grêmio/RS;0x2;Cruzeiro/MG
+1;07/07/2024;21:30;Botafogo/RJ;3x0;Atlético/MG
+1;07/07/2024;19:30;Atlético/GO;1x2;Atlético/PR
+1;07/07/2024;19:30;Palmeiras/SP;2x0;Bahia/BA
+1;07/07/2024;19:30;Vitória/BA;2x1;Criciúma/SC
+1;07/07/2024;19:00;Internacional/RS;1x2;Vasco/RJ
+1;07/07/2024;17:00;Cruzeiro/MG;3x0;Corinthians/SP
+1;07/07/2024;17:00;Fortaleza/CE;1x0;Fluminense/RJ
+1;07/07/2024;17:00;Juventude/RS;3x0;Grêmio/RS
+1;06/07/2024;21:00;Flamengo/RJ;1x1;Cuiabá/MT
+1;06/07/2024;21:00;São Paulo/SP;2x0;Bragantino/SP
+1;04/07/2024;21:00;Corinthians/SP;3x2;Vitória/BA
+1;04/07/2024;21:00;Fluminense/RJ;1x1;Internacional/RS
+1;04/07/2024;20:00;Bahia/BA;2x0;Juventude/RS
+1;04/07/2024;20:00;Grêmio/RS;2x2;Palmeiras/SP
+1;03/07/2024;22:30;Atlético/PR;1x2;São Paulo/SP
+1;03/07/2024;22:30;Atlético/MG;2x4;Flamengo/RJ
+1;03/07/2024;22:30;Bragantino/SP;3x1;Atlético/GO
+1;03/07/2024;21:00;Criciúma/SC;1x0;Cruzeiro/MG
+1;03/07/2024;21:00;Vasco/RJ;2x0;Fortaleza/CE
+1;03/07/2024;20:00;Cuiabá/MT;1x2;Botafogo/RJ
+1;01/07/2024;21:00;Palmeiras/SP;2x0;Corinthians/SP
+1;30/06/2024;19:30;Criciúma/SC;1x1;Internacional/RS
+1;30/06/2024;19:30;Flamengo/RJ;2x1;Cruzeiro/MG
+1;30/06/2024;19:30;Vitória/BA;0x1;Atlético/PR
+1;30/06/2024;17:00;Fortaleza/CE;2x1;Juventude/RS
+1;30/06/2024;17:00;Grêmio/RS;1x0;Fluminense/RJ
+1;30/06/2024;17:00;São Paulo/SP;3x1;Bahia/BA
+1;30/06/2024;12:00;Atlético/MG;1x1;Atlético/GO
+1;29/06/2024;19:30;Cuiabá/MT;1x1;Bragantino/SP
+1;29/06/2024;19:30;Vasco/RJ;1x1;Botafogo/RJ
+1;27/06/2024;21:00;São Paulo/SP;2x1;Criciúma/SC
+1;27/06/2024;20:00;Fluminense/RJ;0x1;Vitória/BA
+1;26/06/2024;22:30;Bahia/BA;2x1;Vasco/RJ
+1;26/06/2024;22:30;Fortaleza/CE;3x0;Palmeiras/SP
+1;26/06/2024;22:30;Internacional/RS;1x2;Atlético/MG
+1;26/06/2024;21:00;Atlético/GO;1x1;Grêmio/RS
+1;26/06/2024;21:00;Corinthians/SP;1x1;Cuiabá/MT
+1;26/06/2024;21:00;Juventude/RS;2x1;Flamengo/RJ
+1;26/06/2024;20:00;Botafogo/RJ;2x1;Bragantino/SP
+1;26/06/2024;20:00;Cruzeiro/MG;2x0;Atlético/PR
+1;23/06/2024;19:30;Atlético/MG;1x1;Fortaleza/CE
+1;23/06/2024;19:30;Palmeiras/SP;3x1;Juventude/RS
+1;23/06/2024;19:30;Bragantino/SP;2x1;Vitória/BA
+1;23/06/2024;17:00;Atlético/PR;1x1;Corinthians/SP
+1;23/06/2024;17:00;Bahia/BA;4x1;Cruzeiro/MG
+1;23/06/2024;17:00;Fluminense/RJ;0x1;Flamengo/RJ
+1;22/06/2024;22:30;Vasco/RJ;4x1;São Paulo/SP
+1;22/06/2024;19:30;Cuiabá/MT;0x0;Atlético/GO
+1;22/06/2024;18:30;Grêmio/RS;0x1;Internacional/RS
+1;22/06/2024;17:00;Criciúma/SC;2x1;Botafogo/RJ
+1;20/06/2024;22:30;Palmeiras/SP;2x1;Bragantino/SP
+1;20/06/2024;21:00;Flamengo/RJ;2x1;Bahia/BA
+1;20/06/2024;19:30;Vitória/BA;4x2;Atlético/MG
+1;19/06/2024;22:30;Cruzeiro/MG;2x0;Fluminense/RJ
+1;19/06/2024;22:30;Internacional/RS;1x0;Corinthians/SP
+1;19/06/2024;21:00;Fortaleza/CE;1x0;Grêmio/RS
+1;19/06/2024;21:00;Juventude/RS;2x0;Vasco/RJ
+1;19/06/2024;21:00;São Paulo/SP;0x1;Cuiabá/MT
+1;19/06/2024;20:00;Atlético/GO;1x2;Criciúma/SC
+1;19/06/2024;20:00;Botafogo/RJ;1x1;Atlético/PR
+1;17/06/2024;21:30;Atlético/MG;0x4;Palmeiras/SP
+1;16/06/2024;19:30;Criciúma/SC;2x2;Bahia/BA
+1;16/06/2024;19:30;Cuiabá/MT;5x0;Fortaleza/CE
+1;16/06/2024;19:30;Grêmio/RS;1x2;Botafogo/RJ
+1;16/06/2024;19:30;Vasco/RJ;0x0;Cruzeiro/MG
+1;16/06/2024;17:00;Atlético/PR;1x1;Flamengo/RJ
+1;16/06/2024;17:00;Corinthians/SP;2x2;São Paulo/SP
+1;16/06/2024;17:00;Vitória/BA;2x1;Internacional/RS
+1;15/06/2024;22:00;Fluminense/RJ;1x2;Atlético/GO
+1;15/06/2024;19:30;Bragantino/SP;2x1;Juventude/RS
+1;13/06/2024;22:30;Bahia/BA;1x0;Fortaleza/CE
+1;13/06/2024;22:30;Palmeiras/SP;2x0;Vasco/RJ
+1;13/06/2024;21:00;Atlético/PR;3x1;Criciúma/SC
+1;13/06/2024;21:00;Flamengo/RJ;2x1;Grêmio/RS
+1;13/06/2024;21:00;Internacional/RS;0x0;São Paulo/SP
+1;13/06/2024;20:00;Cruzeiro/MG;2x1;Cuiabá/MT
+1;11/06/2024;22:30;Bragantino/SP;1x2;Atlético/MG
+1;11/06/2024;21:00;Botafogo/RJ;1x0;Fluminense/RJ
+1;11/06/2024;20:00;Atlético/GO;2x2;Corinthians/SP
+1;11/06/2024;20:00;Juventude/RS;1x1;Vitória/BA
+1;09/06/2024;17:00;Criciúma/SC;2x5;Cuiabá/MT
+1;05/06/2024;21:00;Cuiabá/MT;0x0;Vitória/BA
+1;05/06/2024;20:00;Juventude/RS;1x0;Atlético/GO
+1;02/06/2024;19:30;Fortaleza/CE;1x0;Atlético/PR
+1;02/06/2024;19:30;São Paulo/SP;2x0;Cruzeiro/MG
+1;02/06/2024;17:00;Atlético/MG;1x1;Bahia/BA
+1;02/06/2024;17:00;Criciúma/SC;1x2;Palmeiras/SP
+1;02/06/2024;17:00;Vasco/RJ;1x6;Flamengo/RJ
+1;01/06/2024;22:00;Corinthians/SP;0x1;Botafogo/RJ
+1;01/06/2024;19:30;Cuiabá/MT;0x1;Internacional/RS
+1;01/06/2024;19:30;Fluminense/RJ;1x1;Juventude/RS
+1;01/06/2024;17:00;Grêmio/RS;0x2;Bragantino/SP
+1;01/06/2024;17:00;Vitória/BA;0x2;Atlético/GO
+1;13/05/2024;21:00;São Paulo/SP;2x1;Fluminense/RJ
+1;12/05/2024;19:30;Bahia/BA;1x0;Bragantino/SP
+1;12/05/2024;19:30;Vasco/RJ;2x1;Vitória/BA
+1;12/05/2024;17:00;Atlético/GO;0x1;Cruzeiro/MG
+1;12/05/2024;17:00;Fortaleza/CE;1x1;Botafogo/RJ
+1;12/05/2024;17:00;Palmeiras/SP;0x2;Atlético/PR
+1;11/05/2024;17:00;Flamengo/RJ;2x0;Corinthians/SP
+1;05/05/2024;19:30;Botafogo/RJ;1x2;Bahia/BA
+1;05/05/2024;19:30;Cuiabá/MT;0x2;Palmeiras/SP
+1;05/05/2024;17:00;Atlético/PR;1x0;Vasco/RJ
+1;05/05/2024;17:00;Vitória/BA;1x3;São Paulo/SP
+1;04/05/2024;22:00;Corinthians/SP;0x0;Fortaleza/CE
+1;04/05/2024;19:30;Bragantino/SP;1x1;Flamengo/RJ
+1;04/05/2024;17:00;Fluminense/RJ;2x2;Atlético/MG
+1;29/04/2024;21:00;São Paulo/SP;0x0;Palmeiras/SP
+1;28/04/2024;21:00;Internacional/RS;1x1;Atlético/GO
+1;28/04/2024;19:30;Fortaleza/CE;1x1;Bragantino/SP
+1;28/04/2024;19:30;Juventude/RS;1x1;Atlético/PR
+1;28/04/2024;17:00;Corinthians/SP;3x0;Fluminense/RJ
+1;28/04/2024;17:00;Cruzeiro/MG;3x1;Vitória/BA
+1;28/04/2024;12:00;Flamengo/RJ;0x2;Botafogo/RJ
+1;27/04/2024;22:00;Bahia/BA;1x0;Grêmio/RS
+1;27/04/2024;19:30;Cuiabá/MT;0x3;Atlético/MG
+1;27/04/2024;17:00;Vasco/RJ;0x4;Criciúma/SC
+1;21/04/2024;19:30;Atlético/GO;0x3;São Paulo/SP
+1;21/04/2024;19:30;Botafogo/RJ;5x1;Juventude/RS
+1;21/04/2024;17:00;Atlético/PR;1x0;Internacional/RS
+1;21/04/2024;17:00;Palmeiras/SP;0x0;Flamengo/RJ
+1;21/04/2024;17:00;Vitória/BA;2x2;Bahia/BA
+1;20/04/2024;22:00;Atlético/MG;3x0;Cruzeiro/MG
+1;20/04/2024;19:30;Grêmio/RS;1x0;Cuiabá/MT
+1;20/04/2024;19:30;Bragantino/SP;1x0;Corinthians/SP
+1;20/04/2024;17:00;Fluminense/RJ;2x1;Vasco/RJ
+1;18/04/2024;22:30;Botafogo/RJ;1x0;Atlético/GO
+1;17/04/2024;22:30;Flamengo/RJ;2x1;São Paulo/SP
+1;17/04/2024;21:00;Atlético/MG;1x1;Criciúma/SC
+1;17/04/2024;21:00;Fortaleza/CE;1x1;Cruzeiro/MG
+1;17/04/2024;21:00;Juventude/RS;2x0;Corinthians/SP
+1;17/04/2024;21:00;Palmeiras/SP;0x1;Internacional/RS
+1;17/04/2024;20:00;Grêmio/RS;2x0;Atlético/PR
+1;17/04/2024;20:00;Bragantino/SP;2x1;Vasco/RJ
+1;16/04/2024;22:30;Bahia/BA;2x1;Fluminense/RJ
+1;14/04/2024;19:30;Vitória/BA;0x1;Palmeiras/SP
+1;14/04/2024;18:00;Cruzeiro/MG;3x2;Botafogo/RJ
+1;14/04/2024;17:00;Atlético/PR;4x0;Cuiabá/MT
+1;14/04/2024;17:00;Atlético/GO;1x2;Flamengo/RJ
+1;14/04/2024;17:00;Corinthians/SP;0x0;Atlético/MG
+1;14/04/2024;17:00;Vasco/RJ;2x1;Grêmio/RS
+1;13/04/2024;22:00;Fluminense/RJ;2x2;Bragantino/SP
+1;13/04/2024;22:00;São Paulo/SP;1x2;Fortaleza/CE
+1;13/04/2024;19:30;Criciúma/SC;1x1;Juventude/RS
+1;13/04/2024;19:30;Internacional/RS;2x1;Bahia/BA
